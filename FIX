@@ -7,12 +7,12 @@ EPG url-tvg="https://raw.githubusercontent.com/dhasap/dhanytv/main/epg.xml"
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 https://op-flashcon-digdayahd-1.dens.tv/h/h06/index.m3u8
 
-#EXTINF:-1 tvg-name="tvOne" tvg-logo="https://object-streamo.emonaja.com/img/tvone.png" group-title="Indonesia Channels" server="tvOne" event-duration="4",tvOne
+#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/tvone.png" group-title="Indonesia Channels" server="tvOne",tvOne
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8
 
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://object-streamo.emonaja.com/img/cgtn.png" group-title="Indonesia Channels" server="CGTN" event-duration="4",CGTN
+#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/cgtn.png" group-title="Indonesia Channels" server="CGTN" event-duration="4",CGTN
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -85,13 +85,7 @@ http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
 #https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
 ###https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/sctv.png" group-title="Indonesia Channels" ,
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=206.drm
-http://tvratu.my.id/nissa/index.mpd?id=206&type=dash
-
-#EXTINF:-1 tvg-name="" tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://object-streamo.emonaja.com/img/antv.png" group-title="Indonesia Channels",ANTV
+#EXTINF:-1 tvg-name="" tvg-logo="https://bit.ly/IndonesiaEpg" tvg-logo="https://object-streamo.emonaja.com/img/antv.png" group-title="Indonesia Channels",ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
@@ -101,7 +95,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/ind
 #KODIPROP:contentlookup=false
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://embed.rctiplus.com/live/rcti/inewsid
-#EXTINF:-1 tvg-id="" tvg-logo="https://object-streamo.emonaja.com/img/rcti.png" group-title="Indonesia Channels",RCTI+ HD
+#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/rcti.png" group-title="Indonesia Channels",RCTI+ HD
 https://rcti-linier.rctiplus.id/hdntl=exp=1787527934~acl=%2F*~data=hdntl~hmac=1b864e28d5b7ce502947999ae2875779db7e4333b874c6436ca4206ce87cd583/rcti-sdi-avc1_450000=8-mp4a_96000=1.m3u8
 
 
@@ -110,7 +104,7 @@ https://rcti-linier.rctiplus.id/hdntl=exp=1787527934~acl=%2F*~data=hdntl~hmac=1b
 #KODIPROP:contentlookup=false
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-id="MNCTV" tvg-logo="https://object-streamo.emonaja.com/img/mnctv.png" group-title="Indonesia Channels",MNC TV
+#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mnctv.png" group-title="Indonesia Channels",MNC TV
 https://mnctv-linier.rctiplus.id/hdntl=exp=1787530083~acl=%2F*~data=hdntl~hmac=78fd2052d68332e579a7680436b5957fbf2ab22491eb5bff2f2b4273a6d4c85e/mnctv-sdi-avc1_1000000=17-mp4a_96000=1.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -118,7 +112,7 @@ https://mnctv-linier.rctiplus.id/hdntl=exp=1787530083~acl=%2F*~data=hdntl~hmac=7
 #KODIPROP:contentlookup=false
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-id="GTV" tvg-logo="https://object-streamo.emonaja.com/img/gtv.png" group-title="Indonesia Channels",GTV
+#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/gtv.png" group-title="Indonesia Channels",GTV
 https://gtv-linier.rctiplus.id/hdntl=exp=1787530006~acl=%2F*~data=hdntl~hmac=f90ff64a8c209fc17a7dd8a6ee0a2e93fe06cae084fc2b767ef59c7defdfb649/gtv-sdi-avc1_1000000=7-mp4a_96000=1.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -126,21 +120,21 @@ https://gtv-linier.rctiplus.id/hdntl=exp=1787530006~acl=%2F*~data=hdntl~hmac=f90
 #KODIPROP:contentlookup=false
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 group-title="Indonesia Channels" tvg-id="iNews.id" tvg-logo="https://object-streamo.emonaja.com/img/inews.png",iNews
+#EXTINF:-1 tvg-name="" tvg-logo=="https://object-streamo.emonaja.com/img/inews.png",iNews
 https://inews-linier.rctiplus.id/hdntl=exp=1787531656~acl=%2F*~data=hdntl~hmac=a3987e58bcf07cd8f78f8f12e969da6f90cf83851073e1c103606c24bf91b132/inews-sdi-avc1_1000000=22-mp4a_96000=1.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
 #EXTVLCOPT:http-referrer=https://www.cnnindonesia.com/
-#EXTINF:-1 tvg-id="CNNIndonesia" tvg-logo="https://object-streamo.emonaja.com/img/cnn.png" group-title="Indonesia Channels",CNN Indonesia 
+#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/cnn.png" group-title="Indonesia Channels",CNN Indonesia 
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w766556031_b384000_sleng.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.cnbcindonesia.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
-#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="https://object-streamo.emonaja.com/img/cnbc.png" group-title="Indonesia Channels",CNBC Indonesia 
+#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/cnbc.png" group-title="Indonesia Channels",CNBC Indonesia 
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w800170674_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="MetroTV" group-title="Indonesia Channels" tvg-logo="https://object-streamo.emonaja.com/img/metrotv.png",Metro TV
