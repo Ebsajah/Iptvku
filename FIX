@@ -61,6 +61,10 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h246/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/transtv.png" group-title="Indonesia Channels",TransTV
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+https://cdnbal1.indihometv.com/atm/DASH/transtv/transtv-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://object-streamo.emonaja.com/img/trans7.png" group-title="Indonesia Channels",Trans7
 #EXTVLCOPT:http-referrer=https://awscdn.detik.net.id/detikVideo/detikVideo.core.js?v=2026082314
@@ -87,7 +91,7 @@ http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
 #https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
 ###https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/sctv.png" group-title="Indonesia Channels" ,SCTV 2
+#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/sctv.png" group-title="Indonesia Channels" ,SCTV
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd
@@ -100,11 +104,11 @@ https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-327770703000000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://103.58.160.157:8278/720-ANTV/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://bit.ly/IndonesiaEpg" tvg-logo="https://object-streamo.emonaja.com/img/antv.png" group-title="Indonesia Channels",ANTV 2
+#EXTINF:-1 tvg-name="" tvg-logo="https://bit.ly/IndonesiaEpg" tvg-logo="https://object-streamo.emonaja.com/img/antv.png" group-title="Indonesia Channels",ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-ANTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ANTV.id@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpc9fbG79uZOmieX7ri7X4248xNtPaUM7sTvUQMWJ3tEIURjM6BJFNISBEfqKHthvIWtNbenBt5SkDfap-a09-pzXm5P5v_KvzmEAlwTcJcj-Stko4lvWXE3WwdFV6hbLTwyV3Vrcb5HU70OnttE72yeqejhC-I161jymx9uSXnutX768UuHfLNzaLenk/s700/ANTV.png" "Indonesia Channels",ANTV 3
+#EXTINF:-1 tvg-id="ANTV.id@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpc9fbG79uZOmieX7ri7X4248xNtPaUM7sTvUQMWJ3tEIURjM6BJFNISBEfqKHthvIWtNbenBt5SkDfap-a09-pzXm5P5v_KvzmEAlwTcJcj-Stko4lvWXE3WwdFV6hbLTwyV3Vrcb5HU70OnttE72yeqejhC-I161jymx9uSXnutX768UuHfLNzaLenk/s700/ANTV.png" "Indonesia Channels",ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=782
