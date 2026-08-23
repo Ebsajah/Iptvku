@@ -14,12 +14,17 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h06/index.m3u8
 http://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8
 
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://object-streamo.emonaja.com/img/cgtn.png" group-title="Indonesia Channels" server="CGTN" event-duration="4",CGTN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 https://op-flashcon-digdayahd-1.dens.tv/h/h04/index.m3u8
 
 #EXTINF:-1 tvg-id="auto.rtv.2" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/rtv-1.png" group-title="Indonesia Channels",RTV
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8
 
 #EXTINF:-1 tvg-id="MetroTV.id" group-title="Indonesia Channels" tvg-logo="https://object-streamo.emonaja.com/img/metrotv.png",Metro TV
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://object-streamo.emonaja.com/img/moji.png" group-title="Indonesia Channels", MOJI
