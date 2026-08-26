@@ -54,27 +54,18 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h246/02.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/transtv.png" group-title="Indonesia Channels",TransTV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:contentlookup=false
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=transtv
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/transtv.png" group-title="Indonesia Channels",TransTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://20.detik.com
 #EXTVLCOPT:http-referrer=https://20.detik.com/
-#EXTVLCOPT:http-referrer=https://video.detik.com/transtv-sec/smil:transtv.smil/playlist.m3u8?wowzatokenstarttime=0&wowzatokenendtime=1787745814079&wowzatokenhash=nFQbcXgdi8Nn1poWkiO5P2PCQo66vCvCOxVc_Slqzo4%3D
-https://video.detik.com/transtv-sec/smil:transtv.smil/chunklist_w784879271_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODc3NDU4MTQwNzkmd293emF0b2tlbmhhc2g9bkZRYmNYZ2RpOE5uMXBvV2tpTzVQMlBDUW82NnZDdkNPeFZjX1NscXpvND0=.m3u8
+#EXTVLCOPT:http-referrer=https://parsley.detik.com/dtnct
+https://video.detik.com/transtv-sec/smil:transtv.smil/chunklist_w1118780391_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODc3NTA1Mjg4MTUmd293emF0b2tlbmhhc2g9QzlyWV9XdkR4cXQzSHdFcFFZWWx6bEZ1cmxnQkFTd2tPTVdTZF9wTVMtWT0=.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/transtv.png" group-title="Indonesia Channels",TransTV
 #EXTVLCOPT:http-host=20.detik.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://20.detik.com
+#EXTVLCOPT:access-control-allow-origin=https://20.detik.com
 #EXTVLCOPT:http-referrer=https://20.detik.com/
-https://20.detik.com/watch/livestreaming-transtv?smartautoplay=true
+https://20.detik.com/watch/livestreaming-transtv?smartautoplay=true/chanel=20detik-trans7&user=gen_ff2801c8-db78-54f5-1652-9a78e96849b2&trackerid=146380193.1307284977.1787464357.1787742696.1787746736.8&domain=20.detik.com&domain2=github.com&event=playing
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/trans7.png" group-title="Indonesia Channels",Trans7
 #EXTVLCOPT:http-referrer=https://awscdn.detik.net.id/detikVideo/detikVideo.core.js?v=2026082314
