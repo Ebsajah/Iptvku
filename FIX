@@ -55,13 +55,18 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h246/02.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/transtv.png" group-title="Indonesia Channels",TransTV
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-##EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-####EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#####EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://20.detik.com/live/trans-tv
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/transtv.png" group-title="Indonesia Channels",TransTV
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 https://cdnbal1.indihometv.com/atm/DASH/TransTv/TransTv-avc1_2500000=7-3277707030000000.mpd
@@ -73,6 +78,14 @@ https://cdnbal1.indihometv.com/atm/DASH/TransTv/TransTv-avc1_2500000=7-327770703
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live.eu-north-1a.cf.dmcdn.net/sec2(OIuLNYvVVpoMIfeCnrFkxUNFJPWmOObBez3mE2wqB6zIBTENR6ZGEU8J6BokjMJiInF71_SxAbp_IyJ5NqizXyUdCdfSAyrd_m6RIjkf-QI0Gjp5He98vEoGA3CaH6ZC)/dm/3/x8qckyq/d/live-480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://object-streamo.emonaja.com/img/trans7.png" group-title="Indonesia Channels",Trans7
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://20.detik.com/live/trans-7
 
 #EXTINF:-1 tvg-name="" tvg-name="Indosiar" tvg-logo="https://object-streamo.emonaja.com/img/indosiar.png" group-title="Indonesia Channels",Indosiar
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
@@ -89,25 +102,7 @@ http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
 #KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=204.drm
 http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
 #https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
-###https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://bit.ly/IndonesiaEpg" tvg-logo="https://object-streamo.emonaja.com/img/antv.png" group-title="Indonesia Channels",ANTV
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://103.58.160.157:8278/720-ANTV/playlist.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/IRVkD3QGRzroJ4IZzXBpS-0MRls=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/782/e1af8b.png" group-title="Indonesia Channels",ANTV HD
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-origin=https://www.dens.tv
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://bit.ly/IndonesiaEpg" tvg-logo="https://object-streamo.emonaja.com/img/antv.png" group-title="Indonesia Channels",ANTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-ANTV/playlist.m3u8
+##https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpc9fbG79uZOmieX7ri7X4248xNtPaUM7sTvUQMWJ3tEIURjM6BJFNISBEfqKHthvIWtNbenBt5SkDfap-a09-pzXm5P5v_KvzmEAlwTcJcj-Stko4lvWXE3WwdFV6hbLTwyV3Vrcb5HU70OnttE72yeqejhC-I161jymx9uSXnutX768UuHfLNzaLenk/s700/ANTV.png" "Indonesia Channels",ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -123,7 +118,6 @@ http://tvratu.my.id/nissa/index.mpd?id=782&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/rcti.png" group-title="Indonesia Channels",RCTI+ HD
 https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
-
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
