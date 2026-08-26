@@ -65,6 +65,7 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=transtv
 https://video.detik.com/transtv-sec/smil:transtv.smil/chunklist_w784879271_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODc3NDU4MTQwNzkmd293emF0b2tlbmhhc2g9bkZRYmNYZ2RpOE5uMXBvV2tpTzVQMlBDUW82NnZDdkNPeFZjX1NscXpvND0=.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/transtv.png" group-title="Indonesia Channels",TransTV
+#EXTVLCOPT:http-host=20.detik.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://20.detik.com
 #EXTVLCOPT:http-referrer=https://20.detik.com/
