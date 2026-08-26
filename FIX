@@ -283,6 +283,9 @@ https://lingkartv.my.id/hls/lingkartv.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_key=27fe63a923084c12b0b05d33d204bdca:f9624ac728524e9fdf8e3a97018fe26d
 https://atemecdnbalancer-voe.sysln.id/live/eds/SINPOTVHD/mediampd/SINPOTVHD.mpd
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=19046
+
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -336,7 +339,7 @@ https://d1zhs9dfs6uqpg.cloudfront.net/hls/X16J4FID/X16J4FID_720p30.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://op-flashcon-digdayaxenkoda.dens.tv/3118a881-f091-4bd1-b479-3096e823e3ec/stream.m3u8?app_type=web&userid=lite&chname=Berita_Satu
+https://op-flashcon-digdayahd-1.dens.tv/h/h314/S1/mnf.m3u8
 
 #EXTINF:0 tvg-name="" tvg-logo="https://i.imgur.com/zKaiiyK.png" group-title="Indonesia Channels",ASTHA TV
 https://hgmtv.com:19360/asthatv/asthatv.m3u8
