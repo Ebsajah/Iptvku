@@ -58,7 +58,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h246/02.m3u8
 #EXTVLCOPT:http-origin=https://20.detik.com
 #EXTVLCOPT:http-referrer=https://20.detik.com/
 #EXTVLCOPT:http-referrer=https://parsley.detik.com/dtnct
-https://video.detik.com/transtv-sec/smil:transtv.smil/chunklist_w1118780391_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODc3NTA1Mjg4MTUmd293emF0b2tlbmhhc2g9QzlyWV9XdkR4cXQzSHdFcFFZWWx6bEZ1cmxnQkFTd2tPTVdTZF9wTVMtWT0=.m3u8
+https://20.detik.com/watch/livestreaming-transtv?smartautoplay=true&chanel=20detik-trans7&user=gen_ff2801c8-db78-54f5-1652-9a78e96849b2&trackerid=146380193.1307284977.1787464357.1787742696.1787746736.8&domain=20.detik.com&domain2=github.com&event=playing
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/transtv.png" group-title="Indonesia Channels",TransTV
 #EXTVLCOPT:http-host=20.detik.com
@@ -73,7 +73,7 @@ https://20.detik.com/watch/livestreaming-transtv?smartautoplay=true/chanel=20det
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.eu-north-1a.cf.dmcdn.net/sec2(OIuLNYvVVpoMIfeCnrFkxUNFJPWmOObBez3mE2wqB6zIBTENR6ZGEU8J6BokjMJiInF71_SxAbp_IyJ5NqizXyUdCdfSAyrd_m6RIjkf-QI0Gjp5He98vEoGA3CaH6ZC)/dm/3/x8qckyq/d/live-480.m3u8
+https://20.detik.com/watch/livestreaming-transtv?smartautoplay=true&chanel=20detik-trans7&user=gen_ff2801c8-db78-54f5-1652-9a78e96849b2&trackerid=146380193.1307284977.1787464357.1787742696.1787746736.8&domain=20.detik.com&domain2=github.com&event=playing
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/trans7.png" group-title="Indonesia Channels",Trans7
 #EXT-X-VERSION:3
@@ -136,14 +136,6 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/gtv.png" group-title="Indonesia Channels",GTV
 https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:contentlookup=false
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
-#EXTINF:-1 tvg-name="" tvg-logo=="https://object-streamo.emonaja.com/img/inews.png",iNews
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
-
 #EXTINF:-1 tvg-name="" tvg-url="" tvg-logo="https://object-streamo.emonaja.com/img/inews.png" group-title="Indonesia Channels",iNews 
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -199,10 +191,10 @@ https://d43tg978oium5.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/ind
 #EXTINF:-1 tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/qtIYvE-mjwMPwd-VUxilo2gFiAI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18162/b4bea2.png" group-title="Indonesia Channels",Garuda TV (ChannelFeed)
 https://hgmtv.com:19360/garudatvlivestreaming/480p.m3u8
 
-#EXTVLCOPT:http-referrer=https://indonesiana.tv
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+#EXTVLCOPT:http-referrer=https://indonesiana.tv
 #EXTINF:-1 tvg-name="" tvg-logo="https://layarceritaperempuan.indonesiana.tv/_nuxt/img/logo-indonesianatv-fit.0d9697f.png" group-title="Indonesia Channels",Indonesiana TV (ChannelFeed)
 https://tvstreamcast.com/indonesiana.m3u8
 
@@ -210,18 +202,18 @@ https://tvstreamcast.com/indonesiana.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=941717a97fe946069fd7ebc7afb48402:305d9297ec5797e7fd8aca03142b3b7e
-#EXTINF:-1 group-title="Indonesia Channels" tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/idx.png",IDX (V+)
+#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/idx.png" group-title="Indonesia Channels" ,IDX (V+)
 https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:contentlookup=false
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47d8c564b0eb4d6ba83f7b155c827024:098f10e1734d00c0177bae1236db60fc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=47d8c564b0eb4d6ba83f7b155c827024:098f10e1734d00c0177bae1236db60fc
-#EXTINF:-1 tvg-name="" group-title="Indonesia Channels" tvg-logo="https://object-streamo.emonaja.com/img/btv.png",BTV (V+)
+#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/btv.png" group-title="Indonesia Channels" ,BTV (V+)
 https://op-flashcon-digdayahd-1.dens.tv/h/h314/S1/mnf.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
