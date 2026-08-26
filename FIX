@@ -119,26 +119,29 @@ http://tvratu.my.id/nissa/index.mpd?id=782&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:contentlookup=false
 #EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://embed.rctiplus.com/live/rcti/inewsid
+#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/rcti.png" group-title="Indonesia Channels",RCTI+ HD
-https://rcti-linier.rctiplus.id/hdntl=exp=1787527934~acl=%2F*~data=hdntl~hmac=1b864e28d5b7ce502947999ae2875779db7e4333b874c6436ca4206ce87cd583/rcti-sdi-avc1_450000=8-mp4a_96000=1.m3u8
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:contentlookup=false
 #EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mnctv.png" group-title="Indonesia Channels",MNC TV
-https://mnctv-linier.rctiplus.id/hdntl=exp=1787530083~acl=%2F*~data=hdntl~hmac=78fd2052d68332e579a7680436b5957fbf2ab22491eb5bff2f2b4273a6d4c85e/mnctv-sdi-avc1_1000000=17-mp4a_96000=1.m3u8
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:contentlookup=false
 #EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/gtv.png" group-title="Indonesia Channels",GTV
-https://gtv-linier.rctiplus.id/hdntl=exp=1787530006~acl=%2F*~data=hdntl~hmac=f90ff64a8c209fc17a7dd8a6ee0a2e93fe06cae084fc2b767ef59c7defdfb649/gtv-sdi-avc1_1000000=7-mp4a_96000=1.m3u8
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
