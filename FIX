@@ -85,12 +85,9 @@ https://20.detik.com/watch/livestreaming-transtv?smartautoplay=true
 https://live.eu-north-1a.cf.dmcdn.net/sec2(OIuLNYvVVpoMIfeCnrFkxUNFJPWmOObBez3mE2wqB6zIBTENR6ZGEU8J6BokjMJiInF71_SxAbp_IyJ5NqizXyUdCdfSAyrd_m6RIjkf-QI0Gjp5He98vEoGA3CaH6ZC)/dm/3/x8qckyq/d/live-480.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/trans7.png" group-title="Indonesia Channels",Trans7
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://20.detik.com/live/trans-7
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=744100,RESOLUTION=1280x720
+https://chunklist_w1118780391_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODc3NTA1Mjg4MTUmd293emF0b2tlbmhhc2g9QzlyWV9XdkR4cXQzSHdFcFFZWWx6bEZ1cmxnQkFTd2tPTVdTZF9wTVMtWT0=.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-name="Indosiar" tvg-logo="https://object-streamo.emonaja.com/img/indosiar.png" group-title="Indonesia Channels",Indosiar
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
@@ -154,7 +151,11 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTINF:-1 tvg-name="" tvg-logo=="https://object-streamo.emonaja.com/img/inews.png",iNews
-https://inews-linier.rctiplus.id/hdntl=exp=1787531656~acl=%2F*~data=hdntl~hmac=a3987e58bcf07cd8f78f8f12e969da6f90cf83851073e1c103606c24bf91b132/inews-sdi-avc1_1000000=22-mp4a_96000=1.m3u8
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
+
+#EXTINF:-1 tvg-name="" tvg-url="" tvg-logo="https://object-streamo.emonaja.com/img/inews.png" group-title="Indonesia Channels",iNews 
+#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
