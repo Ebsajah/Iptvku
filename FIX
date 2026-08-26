@@ -7,6 +7,16 @@ EPG url-tvg="https://raw.githubusercontent.com/dhasap/dhanytv/main/epg.xml"
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 https://op-flashcon-digdayahd-1.dens.tv/h/h06/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://object-streamo.emonaja.com/img/trans7.png" group-title="Indonesia Channels", TRANS 7
+https://20.detik.com/watch/livestreaming-trans7?smartautoplay=true%22%20frameborder=%220%22%20width=%22420%22%20scrolling=%22no%22%20allowfullscreen=%22true%22%20height=%22236%22
+
+EXTINF:-1 tvg-id="" tvg-logo="https://object-streamo.emonaja.com/img/trans7.png" group-title="Indonesia Channels", TRANS 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://20.detik.com
+#EXTVLCOPT:http-priority=u=1, i
+#EXTVLCOPT:http-referer=https://20.detik.com/
+https://video.detik.com/trans7-sec/smil:trans7.smil/media_w63289631_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODc3NTk1NzA3NzMmd293emF0b2tlbmhhc2g9UU9OZjl0NEl3VnBwdVJzV1dmRUxKQmx3elUzcU5FNVBhZDFwaEQxcVZJVT0=_987782.ts
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/tvone.png" group-title="Indonesia Channels" server="tvOne",tvOne
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
