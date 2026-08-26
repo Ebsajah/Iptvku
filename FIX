@@ -15,7 +15,7 @@ https://20.detik.com/watch/livestreaming-trans7?smartautoplay=true%22%20framebor
 #EXTVLCOPT:http-origin=https://20.detik.com
 #EXTVLCOPT:http-priority=u=1, i
 #EXTVLCOPT:http-referer=https://20.detik.com/
-https://20.detik.com/watch/livestreaming-trans7?smartautoplay=true%22%20frameborder=%220%22%20width=%22420%22%20scrolling=%22no%22%20allowfullscreen=%22true%22%20height=%22236%22
+https://cdn.detik.net.id/detikVideo/detikVideo.portal.js?v=2026082623
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/tvone.png" group-title="Indonesia Channels" server="tvOne",tvOne
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
