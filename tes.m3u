@@ -1,158 +1,80 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="Indonesia Channels", TVN MOVIE
+#========TRANVISION=======#
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="TRANVISION", TVN MOVIE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 http://202.150.161.212:5000/live/channel30/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="Indonesia Channels", MDTV NET
+#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="TRANVISION", MDTV NET
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 http://202.150.161.212:5000/live/channel31/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="Indonesia Channels", TV 5 MONDE
+#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="TRANVISION", TV 5 MONDE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 http://202.150.161.212:5000/live/channel32/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="Indonesia Channels",ARIRANG
+#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="TRANVISIONs",ARIRANG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 http://202.150.161.212:5000/live/channel33/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="Indonesia Channels", TRANSVISION
+#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="TRANVISION", TRANSVISION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 http://202.150.161.212:5000/live/channel34/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="Indonesia Channels", BIOSKOP INDONESIA
+#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="TRANVISION", BIOSKOP INDONESIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 http://202.150.161.212:5000/live/channel35/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="Indonesia Channels", 0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-http://202.150.161.212:5000/live/channel36/playlist.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="Indonesia Channels", MDTV NET
+#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="TRANVISION", MDTV NET
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 http://202.150.161.212:5000/live/channel37/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="Indonesia Channels", U CHANNEL
+#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="TRANVISION", U CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 http://202.150.161.212:5000/live/channel38/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="Indonesia Channels", J TV
+#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="TRANVISION", J TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 http://202.150.161.212:5000/live/channel39/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="Indonesia Channels", 0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-http://202.150.161.212:5000/live/channel20/playlist.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="Indonesia Channels", FRANCE 24
+#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="TRANVISIONs", FRANCE 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 http://202.150.161.212:5000/live/channel21/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="Indonesia Channels", NHK
+#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="TRANVISION", NHK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 http://202.150.161.212:5000/live/channel22/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="Indonesia Channels", RTV
+#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="TRANVISION", RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 http://202.150.161.212:5000/live/channel23/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="Indonesia Channels", 0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-http://202.150.161.212:5000/live/channel24/playlist.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="Indonesia Channels", LAPOR PAK
+#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="TRANVISION", MOJI HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 http://202.150.161.212:5000/live/channel39/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="Indonesia Channels", 0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-http://202.150.161.212:5000/live/channel25/playlist.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="Indonesia Channels", 0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-http://202.150.161.212:5000/live/channel26/playlist.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="Indonesia Channels", CARTOON NETWORK
+#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="TRANVISION", CARTOON NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 http://202.150.161.212:5000/live/channel27/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="Indonesia Channels", 0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-http://202.150.161.212:5000/live/channel28/playlist.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="Indonesia Channels", WARNER BROSS TV 1
+#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="TRANVISION", WARNER BROSS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 http://202.150.161.212:5000/live/channel29/playlist.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="Indonesia Channels", WARNER BROSS TV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-http://202.150.161.212:5000/live/channe100/playlist.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="Indonesia Channels", WARNER BROSS TV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-http://202.150.161.212:5000/live/channe101/playlist.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="Indonesia Channels", WARNER BROSS TV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-http://202.150.161.212:5000/live/channe102/playlist.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="Indonesia Channels", WARNER BROSS TV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-http://202.150.161.212:5000/live/channe103/playlist.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="Indonesia Channels", WARNER BROSS TV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-http://202.150.161.212:5000/live/channe104/playlist.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="Indonesia Channels", WARNER BROSS TV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-http://202.150.161.212:5000/live/channe105/playlist.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="Indonesia Channels", WARNER BROSS TV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-http://202.150.161.212:5000/live/channe106/playlist.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="Indonesia Channels", WARNER BROSS TV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-http://202.150.161.212:5000/live/channe107/playlist.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="Indonesia Channels", WARNER BROSS TV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-http://202.150.161.212:5000/live/channe108/playlist.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="Indonesia Channels", WARNER BROSS TV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-http://202.150.161.212:5000/live/channe109/playlist.m3u8
 
 
