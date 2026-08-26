@@ -56,9 +56,13 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h246/02.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/transtv.png" group-title="Indonesia Channels",TransTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://20.detik.com/live/trans-tv
-#EXTVLCOPT:http-referrer=https://20.detik.com/watch/livestreaming-transtv?smartautoplay=true
 https://video.detik.com/transtv-sec/smil:transtv.smil/chunklist_w173695592_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODc3NDM1OTYwMDUmd293emF0b2tlbmhhc2g9Y1NIZTJWWU9wWHBKRFlPWjd1bVdfQ1FsMEstNk11RENvTmdCM0Rhc1VtMD0=.m3u8
-#https://video.detik.com/transtv-sec/smil:transtv.smil/chunklist_w2123487091_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODc3NDE1NjAwOTgmd293emF0b2tlbmhhc2g9YzJzRDltSS13ZkZSYV90eFczcGlLSUdXTmxsV3VHeC14V2hSaXF4MmxJUT0=.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/transtv.png" group-title="Indonesia Channels",TransTV
+https://video.detik.com/transtv-sec/smil:transtv.smil/chunklist_w2123487091_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODc3NDE1NjAwOTgmd293emF0b2tlbmhhc2g9YzJzRDltSS13ZkZSYV90eFczcGlLSUdXTmxsV3VHeC14V2hSaXF4MmxJUT0=.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/transtv.png" group-title="Indonesia Channels",TransTV
+https://20.detik.com/watch/livestreaming-transtv?smartautoplay=true
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://object-streamo.emonaja.com/img/trans7.png" group-title="Indonesia Channels",Trans7
 #EXTVLCOPT:http-referrer=https://awscdn.detik.net.id/detikVideo/detikVideo.core.js?v=2026082314
