@@ -7,15 +7,19 @@ EPG url-tvg="https://raw.githubusercontent.com/dhasap/dhanytv/main/epg.xml"
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 https://op-flashcon-digdayahd-1.dens.tv/h/h06/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://object-streamo.emonaja.com/img/trans7.png" group-title="Indonesia Channels", TRANS 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://20.detik.com
-#EXTVLCOPT:http-referer=https://20.detik.com/watch/livestreaming-trans7:35
-https://20.detik.com/watch/livestreaming-trans7
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=6&type=fitnah
+#EXTINF:-1 tvg-id="" tvg-logo="https://object-streamo.emonaja.com/img/transtv.png" group-title="Indonesia Channels",TransTV HD 
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://object-streamo.emonaja.com/img/trans7.png" group-title="Indonesia Channels", TRANS 7(tes)
-#EXTVLCOPT:http-referer=https://20.detik.com/
-https://20.detik.com/watch/livestreaming-transtv
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=7&type=fitnah
+#EXTINF:-1 tvg-id="" tvg-logo="https://object-streamo.emonaja.com/img/trans7.png" group-title="Indonesia Channels",Trans7 HD 
+https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/tvone.png" group-title="Indonesia Channels" server="tvOne",tvOne
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -362,7 +366,7 @@ https://ns1.tjmbc.co.kr/live/myStream.sdp/chunklist_w1501634961.m3u8
 
 #========TRANVISION=======#
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="TRANVISION", TVN MOVIE
+#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/tvnmovies.png" group-title="TRANVISION", TVN MOVIE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 http://202.150.161.212:5000/live/channel30/playlist.m3u8
@@ -372,22 +376,22 @@ http://202.150.161.212:5000/live/channel30/playlist.m3u8
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 http://202.150.161.212:5000/live/channel31/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="TRANVISION", TV 5 MONDE
+#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/tvmonde.png" group-title="TRANVISION", TV 5 MONDE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 http://202.150.161.212:5000/live/channel32/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="TRANVISION",ARIRANG
+#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/arirang.png" group-title="TRANVISION",ARIRANG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 http://202.150.161.212:5000/live/channel33/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="TRANVISION", TRANSVISION
+#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/transvision.png" group-title="TRANVISION", TRANSVISION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 http://202.150.161.212:5000/live/channel34/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="TRANVISION", BIOSKOP INDONESIA
+#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/bioskopindonesia.png" group-title="TRANVISION", BIOSKOP INDONESIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 http://202.150.161.212:5000/live/channel35/playlist.m3u8
@@ -397,42 +401,42 @@ http://202.150.161.212:5000/live/channel35/playlist.m3u8
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 http://202.150.161.212:5000/live/channel37/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="TRANVISION", U CHANNEL
+#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/uchannel.png" group-title="TRANVISION", U CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 http://202.150.161.212:5000/live/channel38/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="TRANVISION", J TV
+#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/jtv.png" group-title="TRANVISION", J TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 http://202.150.161.212:5000/live/channel39/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="TRANVISION", FRANCE 24
+#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/france24.png" group-title="TRANVISION", FRANCE 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 http://202.150.161.212:5000/live/channel21/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="TRANVISION", NHK
+#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/nhk.png" group-title="TRANVISION", NHK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 http://202.150.161.212:5000/live/channel22/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="TRANVISION", RTV
+#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/rtv.png" group-title="TRANVISION", RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 http://202.150.161.212:5000/live/channel23/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="TRANVISION", MOJI HD
+#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/moji.png" group-title="TRANVISION", MOJI HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 http://202.150.161.212:5000/live/channel39/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="TRANVISION", CARTOON NETWORK
+#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/cartoonnetwork.png" group-title="TRANVISION", CARTOON NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 http://202.150.161.212:5000/live/channel27/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="TRANVISION", WARNER BROSS TV
+#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/wbtv.png" group-title="TRANVISION", WARNER BROSS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 http://202.150.161.212:5000/live/channel29/playlist.m3u8
@@ -692,6 +696,18 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mediampd/FashionTV.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="plex.tv.F1.Channel.plex" tvg-logo="https://logodownload.org/wp-content/uploads/2024/05/f1-tv-logo.png" group-title="Sports",F1 TV
 https://a184aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/5fjow0mrvw/out/v1/f870533ee24b4f3bb98d2afe4b1e1bac/cenc.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-wbd-cdn.wbd.com/s3_assets/wp-content/uploads/2024/01/TNT-Sports-Logo.png" group-title="Sports",TNT SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-wbd-cdn.wbd.com/s3_assets/wp-content/uploads/2024/01/TNT-Sports-Logo.png" group-title="Sports",TNT SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
