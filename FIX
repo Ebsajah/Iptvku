@@ -4,7 +4,7 @@
 
 #============================================================== Indonesia Channels ==================================================#
 
-#EXTINF:-1 tvg-id="mdtv" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="Indonesia Channels", MDTV NET
+#EXTINF:-1 tvg-id="mdtv" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="Indonesia Channels", MDTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 https://op-flashcon-digdayahd-1.dens.tv/h/h06/index.m3u8
 
@@ -12,14 +12,14 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h06/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=6&type=fitnah
-#EXTINF:-1 tvg-id="transtv" tvg-logo="https://object-streamo.emonaja.com/img/transtv.png" group-title="Indonesia Channels",TransTV HD 
+#EXTINF:-1 tvg-id="transtv" tvg-logo="https://object-streamo.emonaja.com/img/transtv.png" group-title="Indonesia Channels",TransTV
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=7&type=fitnah
-#EXTINF:-1 tvg-id="trans7" tvg-logo="https://object-streamo.emonaja.com/img/trans7.png" group-title="Indonesia Channels",Trans7 HD 
+#EXTINF:-1 tvg-id="trans7" tvg-logo="https://object-streamo.emonaja.com/img/trans7.png" group-title="Indonesia Channels",Trans7
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/tvone.png" group-title="Indonesia Channels" server="tvOne",tvOne
@@ -34,7 +34,7 @@ http://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h04/index.m3u8
 
-#EXTINF:-1 tvg-name="ntv" tvg-logo="https://object-streamo.emonaja.com/img/ntv.png" group-title="Indonesia Channels" server="NTV" event-duration="4",NusantaraTV
+#EXTINF:-1 tvg-name="ntv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Nusantara_TV_Symbol.svg/revision/latest?cb=20240509104942" group-title="Indonesia Channels" server="NTV" event-duration="4",NusantaraTV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -68,7 +68,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://object-streamo.emonaja.com/img/densplay.png" group-title="Indonesia Channels", Dens Play
 https://op-flashcon-digdayahd-1.dens.tv/h/h246/02.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-name="Indosiar" tvg-logo="https://object-streamo.emonaja.com/img/indosiar.png" group-title="Indonesia Channels",Indosiar
+#EXTINF:-1 tvg-name="" tvg-name="Indosiar" tvg-logo="https://object-streamo.emonaja.com/img/indosiar.png" group-title="Indonesia Channels",INDOSIAR
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
@@ -97,7 +97,7 @@ http://tvratu.my.id/nissa/index.mpd?id=782&type=dash
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/rcti.png" group-title="Indonesia Channels",RCTI+ HD
+#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/rcti.png" group-title="Indonesia Channels",RCTI
 https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -166,28 +166,28 @@ http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=5.play
 https://d43tg978oium5.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://object-streamo.emonaja.com/img/garudatv.png" group-title="Indonesia Channels" ,Garuda TV (ChannelFeed)
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Logo_GarudaTV_Primer_Flat_2025.svg/revision/latest?cb=20250306081830" group-title="Indonesia Channels" ,Garuda TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:contentlookup=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 https://hgmtv.com:19360/garudatvlivestreaming/480p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://object-streamo.emonaja.com/img/indonesianatv.png" group-title="Indonesia Channels" ,Indonesiana TV (ChannelFeed)
+#EXTINF:-1 tvg-id="" tvg-logo="https://object-streamo.emonaja.com/img/indonesianatv.png" group-title="Indonesia Channels" ,Indonesiana TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 #EXTVLCOPT:http-referrer=https://indonesiana.tv
 https://tvstreamcast.com/indonesiana.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://object-streamo.emonaja.com/img/idx.png" group-title="Indonesia Channels" ,IDX (V+)
+#EXTINF:-1 tvg-id="" tvg-logo="https://object-streamo.emonaja.com/img/idx.png" group-title="Indonesia Channels" ,IDX
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=941717a97fe946069fd7ebc7afb48402:305d9297ec5797e7fd8aca03142b3b7e
 https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://object-streamo.emonaja.com/img/btv.png" group-title="Indonesia Channels" ,BTV (V+)
+#EXTINF:-1 tvg-id="" tvg-logo="https://object-streamo.emonaja.com/img/btv.png" group-title="Indonesia Channels" ,BTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:contentlookup=false
@@ -202,21 +202,21 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h314/S1/mnf.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=483c71dd36fd45dd965321e8c568ba42:719598f53c998c618adf76a8f4f17fd1
-#EXTINF:-1tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/VisionPrime.png/revision/latest/scale-to-width-down/300?cb=20200225175642&path-prefix=es" group-title="Indonesia Channels",Vision Prime (V+)
+#EXTINF:-1tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/VisionPrime.png/revision/latest/scale-to-width-down/300?cb=20200225175642&path-prefix=es" group-title="Indonesia Channels",Vision Prime
 https://d43tg978oium5.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62f0fb29203c45419e2ea683c5c365e6:10b227a6ea7d65628f025e41318b927c
-#EXTINF:-1 tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/b/b1/Ent_%282020%29.png/revision/latest?cb=20210401065932" group-title="Indonesia Channels",Entertainment (V+)
+#EXTINF:-1 tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/b/b1/Ent_%282020%29.png/revision/latest?cb=20210401065932" group-title="Indonesia Channels",Entertainment
 https://d2xx73ro32cip.cloudfront.net/out/v1/a90cb773466446b08595007bab12b920/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=10bba49df37c42e78365a9995ca93f79:1d504b9bf2efa10d4d00058222b5020a
-#EXTINF:-1 tvg-id="" tvg-logo="https://object-streamo.emonaja.com/img/CelebritiesTV.png" group-title="Indonesia Channels",CelebritiesTV (V+)
+#EXTINF:-1 tvg-id="" tvg-logo="https://object-streamo.emonaja.com/img/CelebritiesTV.png" group-title="Indonesia Channels",CelebritiesTV
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/index.mpd
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/2gSbSY7.png" group-title="Indonesia Channels",Nusantara TV
@@ -348,7 +348,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h38/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=d856bf85229c4a42a7b0de45e4c91a31:5633e069ef585f73ccfe2dd6a85a6f48
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/099aba2d60b44679915cd56f303b975d/index.mpd
+https://op-flashcon-digdayahd-1.dens.tv/h/h15/index.m3u8
 
 #========================================================================= Korean Channels ===============================================================================#
 
@@ -627,7 +627,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/in
 #KODIPROP:inputstream.adaptive.license_key=974d4fb195224f66a2271de806e62018:0e92ec1a28d59da80161c3541c6eb8eb
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="auto.celestial.movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmAKEUwgOvV4QxTTW45kajyQwnhyAd_YlNfSRZVUL-xA&s=10" group-title="Premium Movies",Celestial Movies
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium Movies",Celestial Movies
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
