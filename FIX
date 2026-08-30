@@ -8,7 +8,10 @@ EPG url-tvg="https://raw.githubusercontent.com/dhasap/dhanytv/main/epg.xml"
 https://op-flashcon-digdayahd-1.dens.tv/h/h06/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://object-streamo.emonaja.com/img/trans7.png" group-title="Indonesia Channels", TRANS 7
-https://20.detik.com/watch/livestreaming-trans7?smartautoplay=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://20.detik.com
+#EXTVLCOPT:http-referer=https://20.detik.com/
+ttps://analytics.google.com/g/collect?v=2&tid=G-Y7WW684XXD&gtm=45je68q1v897491259za20gzb72264312zd72264312&_p=1788086955965&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AEAAAGQ&ae=a&cid=1323558097.1787464357&frm=0&pscdl=noapi&rcb=1&sr=2560x1440&uaa=x86&uab=64&uafvl=Chromium%3B152.0.7977.64%7CNot%253FA_Brand%3B24.0.0.0%7CGoogle%2520Chrome%3B152.0.7977.64&uam=&uamb=0&uap=Windows&uapv=19.0.0&uaw=0&ul=en-us&gaf=2&_s=2&tag_exp=115938465~115938469~118897920~118897930~119259605~120385422&sid=1788086927&sct=10&seg=1&dl=https%3A%2F%2F20.detik.com%2Fwatch%2Flivestreaming-trans7&dr=https%3A%2F%2Fgithub.com%2Fyogibagus%2FDaftar-Embed-LIVE-STREAM-Channel-TV-Indonesia&dt=Live%20Streaming%20-%20Trans7&en=scroll&epn.percent_scrolled=90&_et=29860&tfd=42451
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://object-streamo.emonaja.com/img/trans7.png" group-title="Indonesia Channels", TRANS 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
