@@ -31,7 +31,7 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Trans7" tvg-logo="https://awscdn.detik.net.id/assets/images/Trans7.jpg" group-title="Lokal Indonesia",Live Streaming - Trans7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.detik.com/
+#EXTVLCOPT:http-referrer=https://detik.com
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8|User-Agent=Mozilla/5.0&Referer=https://www.detik.com/
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/tvone.png" group-title="Indonesia Channels" server="tvOne",tvOne
