@@ -5,76 +5,76 @@ REFF https://pastebin.com/raw/EN17c2ZW
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="TRANVISION", TVN MOVIE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-http://202.150.161.212:5000/live/channel30/playlist.m3u8
+http://202.150.161.212:5000/live/channe201/playlist.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="TRANVISION", MDTV NET
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-http://202.150.161.212:5000/live/channel31/playlist.m3u8
+http://202.150.161.212:5000/live/channe202/playlist.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="TRANVISION", TV 5 MONDE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-http://202.150.161.212:5000/live/channel32/playlist.m3u8
+http://202.150.161.212:5000/live/channe203/playlist.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="TRANVISION",ARIRANG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-http://202.150.161.212:5000/live/channel33/playlist.m3u8
+http://202.150.161.212:5000/live/channe204/playlist.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="TRANVISION", TRANSVISION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-http://202.150.161.212:5000/live/channel34/playlist.m3u8
+http://202.150.161.212:5000/live/channe205/playlist.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="TRANVISION", BIOSKOP INDONESIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-http://202.150.161.212:5000/live/channel35/playlist.m3u8
+http://202.150.161.212:5000/live/channe206/playlist.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="TRANVISION", MDTV NET
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-http://202.150.161.212:5000/live/channel37/playlist.m3u8
+http://202.150.161.212:5000/live/channe207/playlist.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="TRANVISION", U CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-http://202.150.161.212:5000/live/channel38/playlist.m3u8
+http://202.150.161.212:5000/live/channe208/playlist.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="TRANVISION", J TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-http://202.150.161.212:5000/live/channel39/playlist.m3u8
+http://202.150.161.212:5000/live/channe209/playlist.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="TRANVISION", FRANCE 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-http://202.150.161.212:5000/live/channel21/playlist.m3u8
+http://202.150.161.212:5000/live/channe210/playlist.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="TRANVISION", NHK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-http://202.150.161.212:5000/live/channel22/playlist.m3u8
+http://202.150.161.212:5000/live/channe211/playlist.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="TRANVISION", RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-http://202.150.161.212:5000/live/channel23/playlist.m3u8
+http://202.150.161.212:5000/live/channe212/playlist.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="TRANVISION", MOJI HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-http://202.150.161.212:5000/live/channel39/playlist.m3u8
+http://202.150.161.212:5000/live/channe213/playlist.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="TRANVISION", CARTOON NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-http://202.150.161.212:5000/live/channel27/playlist.m3u8
+http://202.150.161.212:5000/live/channe214/playlist.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="TRANVISION", WARNER BROSS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-http://202.150.161.212:5000/live/channel29/playlist.m3u8
+http://202.150.161.212:5000/live/channe215/playlist.m3u8
 
 
