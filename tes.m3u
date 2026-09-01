@@ -6,11 +6,12 @@ REFF https://pastebin.com/raw/EN17c2ZW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
-https://www.cubmu.com/watch/live-tv/201-trans7|Chrome/152.0.0.0
+https://www.cubmu.com/watch/live-tv/201-trans7|User-Agent=/Chrome/152.0.0.0&Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="TRANVISION", MDTV NET
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
 https://www.cubmu.com/watch/live-tv/201-trans7
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="TRANVISION", TV 5 MONDE
