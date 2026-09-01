@@ -1,6 +1,6 @@
 #EXTM3U 
 #tvg-url-tvg="https://raw.githubusercontent.com/dhasap/dhanytv/main/epg.xml"
-#tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml"
+#tvg-url-tvg="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml"
 
 #============================================================== Indonesia Channels ==================================================#
 
@@ -22,12 +22,9 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/in
 #EXTINF:-1 tvg-id="trans7" tvg-logo="https://object-streamo.emonaja.com/img/trans7.png" group-title="Indonesia Channels",Trans7
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:4
-#EXT-X-MEDIA-SEQUENCE:85882
-#EXT-X-DISCONTINUITY-SEQUENCE:0
-#EXTINF:3.004, tvg-id="trans7" tvg-logo="https://object-streamo.emonaja.com/img/trans7.png" group-title="Indonesia Channels",Trans7
-https://media_w579673404_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODgyODQ2MzcwMzcmd293emF0b2tlbmhhc2g9YzBIWERvckl4QmR3c3I0dnYzM0VvR2xoREdnOFlUYWVGY2VMS3JpenZmYz0=_85882.ts
+
+#EXTINF:-1 tvg-id="trans7" tvg-logo="https://object-streamo.emonaja.com/img/trans7.png" group-title="Indonesia Channels",Trans7
+https://20.detik.com/watch/livestreaming-trans7?smartautoplay=true
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/tvone.png" group-title="Indonesia Channels" server="tvOne",tvOne
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
