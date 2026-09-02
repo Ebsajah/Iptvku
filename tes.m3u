@@ -1,6 +1,29 @@
 #EXTM3U 
 REFF https://pastebin.com/raw/EN17c2ZW
 #========TRANVISION=======#
+#EXTINF:-1 tvg-name="" tvg-name="Indosiar" tvg-logo="https://object-streamo.emonaja.com/img/indosiar.png" group-title="Indonesia Channels",INDOSIAR
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=206&type=drm
+http://tvratu.my.id/nissa/index.mpd?id=206&type=dash
+
+#EXTINF:-1 tvg-name="" tvg-name="Indosiar" tvg-logo="https://object-streamo.emonaja.com/img/indosiar.png" group-title="Indonesia Channels",INDOSIAR
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=207&type=drm
+http://tvratu.my.id/nissa/index.mpd?id=207&type=dash
+
+#EXTINF:-1 tvg-name="" tvg-name="Indosiar" tvg-logo="https://object-streamo.emonaja.com/img/indosiar.png" group-title="Indonesia Channels",INDOSIAR
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=706&type=drm
+http://tvratu.my.id/nissa/index.mpd?id=706&type=dash
+
+#EXTINF:-1 tvg-name="" tvg-name="Indosiar" tvg-logo="https://object-streamo.emonaja.com/img/indosiar.png" group-title="Indonesia Channels",INDOSIAR
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=802&type=drm
+http://tvratu.my.id/nissa/index.mpd?id=802&type=dash
 
 
 
