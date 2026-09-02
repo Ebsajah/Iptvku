@@ -33,7 +33,7 @@ https://www.transtv.co.id/live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #EXTVLCOPT:http-referrer=https://geo.dailymotion.com/
-https://live.eu-north-1a.cf.dmcdn.net/sec2(Uq_qpdHtBwss3U7nFv-SEVblmFvNf5nyiDHTAjXACMVL1symg1OD46IKVsV--TWJavARbNhqwWzTFBUN9ZdW3CwxJYM3DH6SMq72yRZ4oz_wHK6M2w2MkhfKICyzlSH6)/dm/3/x8qckyq/d/live-480.m3u8
+https://live.eu-north-1a.cf.dmcdn.net/sec2(39XZkL8YRu21KyB7yYTkuT7_5pm6XZENc2SG-bjplYkjDSWZHiWQoJkgwQQhf7bgcy6fsz7AbGjQIpdSrX0E8A6VWq7Nt_BvG7Dm5yGvr-Oct69fyTNTqIDGZaIKCEw-)/dm/3/x8qckyq/d/live-480.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/tvone.png" group-title="Indonesia Channels" server="tvOne",tvOne
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
