@@ -28,7 +28,7 @@ https://video.detik.com/transtv/smil:transtv-live.smil/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 https://cdnjktbpid02.transvision.co.id/riutx01-25bf06b829682dd0aaeebb60bc6bd02d/dash/VFJBTlM3LW15/vx9-mdrmprt02/video-segment_720p_6441991200.mp4
 
-#EXTINF:-1 tvg-id="transtv" tvg-logo="https://object-streamo.emonaja.com/img/transtv.png" group-title="Indonesia Channels",TransTV
+#EXTINF:-1 tvg-id="transtv" tvg-logo="https://object-streamo.emonaja.com/img/transtv.png" group-title="Indonesia Channels",TransTV (tes)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -37,7 +37,6 @@ https://cdnjktbpid02.transvision.co.id/riutx01-25bf06b829682dd0aaeebb60bc6bd02d/
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-referrer=https://m.vidio.com/live/733-trans-tv
 https://video.detik.com/transtv-sec/smil:transtv.smil/chunklist_w68106865_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODgzNzAzOTg5MDYmd293emF0b2tlbmhhc2g9NGx5VmJWaDVKVnA0SFduS0hBTTVGRUJLOTBuYUxNemxUTEJHZWlvLXc5MD0=.m3u8
-
 
 #EXTINF:-1 tvg-id="trans7" tvg-logo="https://object-streamo.emonaja.com/img/trans7.png" group-title="Indonesia Channels",Trans7
 #KODIPROP:inputstream=inputstream.adaptive
@@ -367,7 +366,9 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h15/index.m3u8
 
 #EXTINF:-1 tvg-id="tvNMovies.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_25.png" group-title="Korea",TvN movies HD (V+)
 http://202.150.161.212:5000/live/channel30/playlist.m3u8
-#https://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/index.mpd
+
+#EXTINF:-1 tvg-id="tvNMovies.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_25.png" group-title="Korea",TvN movies HD
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/index.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTINF:-1 tvg-id="auto.new.kmovies" tvg-logo="https://cdn88-accio.its-newid.net/channel/newid_009/lg_channels/img/default/channel_logo/channel_logo.png" group-title="Korea",NEW KMOVIES
