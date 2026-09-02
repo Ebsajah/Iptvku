@@ -26,7 +26,7 @@ https://video.detik.com/transtv-sec/smil:transtv.smil/chunklist_w80107000_b74410
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
-https://cdnjktbpid02.transvision.co.id/riutx01-25bf06b829682dd0aaeebb60bc6bd02d/dash/VFJBTlM3LW15/vx9-mdrmprt02/manifest.mpd?signature=ZWU3M2M4MWUwNTRjODRhY2E5MjlhZGNkODA1Mjc4MjI=&time=15246051603
+https://cdnjktbpid02.transvision.co.id/riutx01-25bf06b829682dd0aaeebb60bc6bd02d/dash/VFJBTlM3LW15/vx9-mdrmprt02/manifest.mpd?signature=ZWU3M2M4MWUwNTRjODRhY2E5MjlhZGNkODA1Mjc4MjI=&time=15246051603|https://cdnjktbpid02.transvision.co.id/riutx01-25bf06b829682dd0aaeebb60bc6bd02d/dash/VFJBTlM3LW15/vx9-mdrmprt02/video-segment_720p_6441991200.mp4
 
 #EXTINF:-1 tvg-id="trans7" tvg-logo="https://object-streamo.emonaja.com/img/trans7.png" group-title="Indonesia Channels",Trans7
 #KODIPROP:inputstream=inputstream.adaptive
