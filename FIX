@@ -31,6 +31,11 @@ https://live.eu-north-1a.cf.dmcdn.net/sec2(IZpGPA9xPU_wxr-Ety7GAFBcElUDljiHZXiN8
 #EXTINF:-1 tvg-id="transtv" tvg-logo="https://object-streamo.emonaja.com/img/transtv.png" group-title="Indonesia Channels",TransTV c
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82d221f5bc0041bcb91f84509ced3160:e8125744-c4dc-425e-9864-4bae65a75762
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/watch/live-tv/210-trans-tv
 https://cdnjktbpid02.transvision.co.id/riutx01-45abb55cb99a02ee0e729bee98bf3537/dash/VHJhbnNUVg/vx9-mdrmprt02/manifest.mpd?signature=ZTMwZjFjNzNhOGE5YzhkN2Q0NmNlMjU3YzA4NTJhZmY=&time=15247357342%20Request%20Method%20GET
 
