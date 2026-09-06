@@ -939,10 +939,14 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 #========================================================================== Malaysia ============================================================================#
 
 #EXTINF:-1 tvg-id="TV1" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/rtmklik.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png" group-title="Malaysia",TV 1
-https://live.mana2.my/Tv1/index.m3u8?auth_key=1745177809-03fbff3dfc194161829ff0dbf94a205a-0-c6dcdd3499b8b5488b7de0f6613b8047&token=1745177809-03fbff3dfc194161829ff0dbf94a205a-0-c6dcdd3499b8b5488b7de0f6613b8047
+https://rtm1.secureswiftcontent.com/rtmchannel1/index.m3u8
 
 #EXTINF:-1 tvg-id="TV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/rtmklik.xml" group-title="Malaysia",TV 2
+https://rtm2.secureswiftcontent.com/rtmchannel2/index.m3u8
+
 #EXTINF:-1 tvg-id="TV3" tvg-logo="https://e7.pngegg.com/pngimages/151/391/png-clipart-malaysia-tv3-television-media-prima-logo-others-miscellaneous-television.png" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/rtmklik.xml" group-title="Malaysia",TV 3
+https://d3inlz9elsutjl.cloudfront.net/tv3/index.m3u8
+
 #EXTINF:-1 tvg-id="Okey" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/rtmklik.xml" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",TV Okey
 #EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/rtmklik.xml" group-title="Malaysia" tvg-logo="https://www.vectorise.net/forums/downloads/tvs_kbp.png",Selangor TV
 #EXTINF:-1 tvg-id="108" group-title="Malaysia" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://e7.pngegg.com/pngimages/130/418/png-clipart-8tv-malaysia-media-prima-television-tv3-bulan-sabit-purple-television.png",8TV Malaysia
