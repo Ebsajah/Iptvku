@@ -16,7 +16,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h06/index.m3u8
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-referrer=https://20.detik.com/
-https://video.detik.com/transtv-sec/smil:transtv.smil/chunklist_w1466233837_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODg3MjM0OTk3Nzcmd293emF0b2tlbmhhc2g9aEtsUExod0NXUFdDWkxaQXJlSk04YUJjUHVKYkhlT0xodWhJTlFQaFZIaz0=.m3u8?chanel=20detik-transTV&user=gen_29f8fbd9-6016-079b-c9ad-835448b8eb68&trackerid=&domain=www.transtv.co.id&domain2=www.transtv.co.id&event=playing
+https://video.detik.com/transtv-sec/smil:transtv.smil/playlist.m3u8?wowzatokenstarttime=0&wowzatokenendtime=1788730716620&wowzatokenhash=pwfdSiIrUjkUjD0Wi6X7GAtvRjt8ceCoOSkKvRe2GBs%3D
 
 #EXTINF:-1 tvg-id="trans7" tvg-logo="https://object-streamo.emonaja.com/img/trans7.png" group-title="Indonesia Channels",Trans7
 #KODIPROP:inputstream=inputstream.adaptive
@@ -31,7 +31,7 @@ https://live.eu-north-1a.cf.dmcdn.net/sec2(IZpGPA9xPU_wxr-Ety7GAFBcElUDljiHZXiN8
 #EXTINF:-1 tvg-id="transtv" tvg-logo="https://object-streamo.emonaja.com/img/transtv.png" group-title="Indonesia Channels",TransTV c
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-#EXTVLCOPT:http-host=https://www.cubmu.com/
+#EXTVLCOPT:http-referrer=https://20.detik.com/
 https://cdnjktbpid02.transvision.co.id/riutx01-45abb55cb99a02ee0e729bee98bf3537/dash/VHJhbnNUVg/vx9-mdrmprt02/manifest.mpd?signature=ZTMwZjFjNzNhOGE5YzhkN2Q0NmNlMjU3YzA4NTJhZmY=&time=15247346667
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/tvone.png" group-title="Indonesia Channels" server="tvOne",tvOne
