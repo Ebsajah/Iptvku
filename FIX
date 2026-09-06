@@ -37,7 +37,7 @@ https://live.eu-north-1a.cf.dmcdn.net/sec2(IZpGPA9xPU_wxr-Ety7GAFBcElUDljiHZXiN8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82d221f5bc0041bcb91f84509ced3160:e8125744-c4dc-425e-9864-4bae65a75762
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/watch/live-tv/210-trans-tv
-https://cdnjktbpid02.transvision.co.id/riutx01-45abb55cb99a02ee0e729bee98bf3537/dash/VHJhbnNUVg/vx9-mdrmprt02/manifest.mpd
+https://cdnjktbpid02.transvision.co.id/riutx01-45abb55cb99a02ee0e729bee98bf3537/dash/VHJhbnNUVg/vx9-mdrmprt02/manifest.mpd?signature=ZTMwZjFjNzNhOGE5YzhkN2Q0NmNlMjU3YzA4NTJhZmY=&time=15247361635
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/tvone.png" group-title="Indonesia Channels" server="tvOne",tvOne
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
