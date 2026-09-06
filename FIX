@@ -16,7 +16,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h06/index.m3u8
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
-https://cdnjktbpid02.transvision.co.id/riutx01-25bf06b829682dd0aaeebb60bc6bd02d/dash/VFJBTlM3LW15/vx9-mdrmprt02/video-segment_720p_6441991200.mp4
+https://video.detik.com/transtv-sec/smil:transtv.smil/chunklist_w1466233837_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODg3MjM0OTk3Nzcmd293emF0b2tlbmhhc2g9aEtsUExod0NXUFdDWkxaQXJlSk04YUJjUHVKYkhlT0xodWhJTlFQaFZIaz0=.m3u8
 
 #EXTINF:-1 tvg-id="trans7" tvg-logo="https://object-streamo.emonaja.com/img/trans7.png" group-title="Indonesia Channels",Trans7
 #KODIPROP:inputstream=inputstream.adaptive
@@ -24,8 +24,9 @@ https://cdnjktbpid02.transvision.co.id/riutx01-25bf06b829682dd0aaeebb60bc6bd02d/
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#EXTVLCOPT:http-host=https://pebed.dm-event.net/
 #EXTVLCOPT:http-referrer=https://geo.dailymotion.com/
-https://live.eu-north-1a.cf.dmcdn.net/sec2(39XZkL8YRu21KyB7yYTkuT7_5pm6XZENc2SG-bjplYkjDSWZHiWQoJkgwQQhf7bgcy6fsz7AbGjQIpdSrX0E8A6VWq7Nt_BvG7Dm5yGvr-Oct69fyTNTqIDGZaIKCEw-)/dm/3/x8qckyq/d/live-480.m3u8
+https://live.eu-north-1a.cf.dmcdn.net/sec2(IZpGPA9xPU_wxr-Ety7GAFBcElUDljiHZXiN8pfAltnLNnNNwz0728zvUW9fJDKLbDRa0R5GYmkgwQcdlxk4j9YPQqNrPiLgRnracLkyOXpsVdkiKmHZu-qTPL8t3u-D)/dm/3/x8qckyq/d/live-480.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/tvone.png" group-title="Indonesia Channels" server="tvOne",tvOne
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
