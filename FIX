@@ -16,7 +16,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h06/index.m3u8
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-referrer=https://20.detik.com/
-https://video.detik.com/transtv-sec/smil:transtv.smil/playlist.m3u8?pid=6404
+https://video.detik.com/transtv-sec/smil:transtv.smil/playlist.m3u8?chanel=20detik-transTV&user=gen_ff2801c8-db78-54f5-1652-9a78e96849b2&trackerid=146380193.1307284977.1787464357.1788298216.1788829688.15&domain=20.detik.com%2Flive%2Ftrans-tv&domain2=www.google.com&_=1788829686263
 
 #EXTINF:-1 tvg-id="trans7" tvg-logo="https://object-streamo.emonaja.com/img/trans7.png" group-title="Indonesia Channels",Trans7
 #KODIPROP:inputstream=inputstream.adaptive
