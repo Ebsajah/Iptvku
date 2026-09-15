@@ -44,8 +44,8 @@ https://cdnjktbpid02.transvision.co.id/riutx01-45abb55cb99a02ee0e729bee98bf3537/
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/watch/live-tv/210-trans-tv
-https://video.detik.com/transtv-sec/smil:transtv.smil/playlist.m3u8?wowzatokenstarttime=0&wowzatokenendtime=1789505999004&wowzatokenhash=AcCpOY_KZraxIf4DoYyJ2pL63jYLmJO3Vkx5MTGKevs%3D
+#EXTVLCOPT:http-referrer=https://20.detik.com/watch/livestreaming-transtv?smartautoplay=true
+https://20.detik.com/watch/livestreaming-transtv?smartautoplay=true|https://video.detik.com/transtv-sec/smil:transtv.smil/playlist.m3u8?wowzatokenstarttime=0&wowzatokenendtime=1789505999004&wowzatokenhash=AcCpOY_KZraxIf4DoYyJ2pL63jYLmJO3Vkx5MTGKevs%3D
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/tvone.png" group-title="Indonesia Channels" server="tvOne",tvOne
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
