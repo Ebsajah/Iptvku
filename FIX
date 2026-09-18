@@ -24,6 +24,14 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/in
 #EXTVLCOPT:http-referrer=https://geo.dailymotion.com/
 https://live.eu-north-1a.cf.dmcdn.net/sec2(KxcoiAv8br49WZM8oaDKYwaothcMXLl4BWsONiFNh_EmjpK4el0GZQ_q3_PyZY0f2q6X7dXoQ9M-43dqLiwEppugN_IrmH9-UfWxE8w0iah60XmK_R8gnqJIEEPm77ED)/dm/3/x8qckyq/d/live-480.m3u8?zone=318137&r=https%3A%2F%2Fpublic-prod-dspcookiematching.dmxleo.com%2Fdspreply%3FdspId%3D4202%26dspUserId%3D%7BUID%7D&gdpr=0&gdpr_consent=&gpp=&gpp_sid=&auid=A3832211136397097701
 
+#EXTINF:-1 tvg-id="trans7" tvg-logo="https://object-streamo.emonaja.com/img/trans7.png" group-title="Indonesia Channels",Trans7 c
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+http://119.82.250.109:8080/nl.m3u8?id=1002
+
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -36,8 +44,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/in
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/watch/live-tv/210-trans-tv
-https://cdnjktbpid02.transvision.co.id/riutx01-45abb55cb99a02ee0e729bee98bf3537/dash/VHJhbnNUVg/vx9-mdrmprt02/manifest.mpd?channel_id=210&nocache=1
+http://119.82.250.109:8080/nl.m3u8?id=1145
 
 #EXTINF:-1 tvg-id="transtv" tvg-logo="https://object-streamo.emonaja.com/img/transtv.png" group-title="Indonesia Channels",TransTV d
 #KODIPROP:inputstreamaddon=inputstream.adaptive
