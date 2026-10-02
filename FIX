@@ -372,6 +372,13 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h15/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h233/index.m3u8
 
+#EXTINF:-1 tvg-name="" group-title="RELIGI" group-title="RELIGI" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/88_ALQURANALKAREEM_(1)_2025_03_19_08_18_31.png",KSA
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h219/index.m3u8
+
 #========================================================================= Life Style ===============================================================================#
 
 #EXTINF:-1 tvg-name="" group-title="LIFESTYLE" tvg-logo="" ,FOOD CREEMATV
@@ -767,6 +774,12 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=082
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png/revision/latest?cb=20240302050750" group-title="Knowledge",History HD
 https://cdnbal1.indihometv.com/atm/DASH/history/history-avc1_2500000=7-3277707030000000.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Knowledge",Origin Coffe
+https://op-flashcon-digdayahd-1.dens.tv/h/h202/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Knowledge",Dens Knowledge
+https://op-flashcon-digdayahd-1.dens.tv/h/h218/index.m3u8
+
 #============================================================== Sports =================================================================================================#
 
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1148,7 +1161,7 @@ https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20102452_ico.png?ts=1655457090" group-title="HBO",HBO
-
+https://cdnbal1.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
