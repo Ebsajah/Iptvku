@@ -428,9 +428,17 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=7737
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=742
 
+#EXTINF:-1 tvg-id="auto.new.kmovies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/K_Movies_Pinoy_logojuly2019.png/revision/latest?cb=20200724064257" group-title="Korea",NEW KMOVIES 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=595
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTINF:-1 tvg-id="auto.k.drama" tvg-logo="https://cdn88-accio.its-newid.net/channel/newid_008/lg_channels/img/channel_logo/default/channel_logo.png" group-title="Korea",K-DRAMA+
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=425
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Kpop_TV_Play.png/revision/latest?cb=20230625152624" group-title="Korea",Studio-K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=630
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Kpop_TV_Play.png/revision/latest?cb=20230625152624" group-title="Korea",K-Music
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -779,6 +787,9 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h202/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Knowledge",Dens Knowledge
 https://op-flashcon-digdayahd-1.dens.tv/h/h218/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Knowledge",MotorvisionTv
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=535
 
 #============================================================== Sports =================================================================================================#
 
