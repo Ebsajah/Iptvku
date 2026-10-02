@@ -1,4 +1,4 @@
-#EXTM3U 
+#EXTM3U refresh="86000"
 #tvg-url-tvg="https://raw.githubusercontent.com/dhasap/dhanytv/main/epg.xml" refresh="3600"
 #tvg-url-tvg="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" refresh="3600"
 
