@@ -21,6 +21,7 @@ http://202.150.161.212:5000/live/channel31/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#EXTVLCOPT:http-referrer=https://geo.dailymotion.com/
 https://live.eu-north-1a.cf.dmcdn.net/sec2(HT5DhROXlZxiPoSMYj8PYZJs4a3V8v9ePrKskVUtEIGJwTAxrGBDynI0x_TD3520oavg8Td7p0yluvYcuzpFM7EczKTqVZjj8vNbSOiOxdyUZ7vdyuzFOmzooWXHIPXT)/dm/3/x8qckyq/d/stream-480-1791516182.ts
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/__j35q7LPpcS2EgkR7v8GpE4USQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/ecaa60.png" group-title="Indonesia Channels",TransTV HD
