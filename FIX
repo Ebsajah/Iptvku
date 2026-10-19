@@ -115,21 +115,6 @@ http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
 #KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=782.drm
 http://tvratu.my.id/nissa/index.mpd?id=782&type=dash
 
-#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://thumbor.prod.vidiocdn.com/9c-sEWp6Du7DoWDn56cjma0gMpY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/665/337c4d.png" group-title="Indonesia Channels",RCTI HD
-https://mncmedia.malingtv.workers.dev/rcti.m3u8
-
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/A4rNvFKdLq9QYWcA9c-uvL38=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/665/337c4d.png" group-title="Indonesia Channels",MNC TV HD
-https://mncmedia.malingtv.workers.dev/mnctv.m3u8
-
-#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/g6zqJ5DAVvSGkXcs4US-vLY_pw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/731/dd0793.png" group-title="Indonesia Channels",GTV HD
-https://mncmedia.malingtv.workers.dev/gtv.m3u8
-
-#EXTINF:-1 tvg-id="iNews.id" tvg-logo="https://thumbor.prod.vidiocdn.com/wSfbef0k6V3fn7rnZa4azgVrLcM=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/728/eb7747.png" group-title="Indonesia Channels",iNews HD
-https://mncmedia.malingtv.workers.dev/inews.m3u8
-
-#EXTINF:-1 tvg-id="iNews.id" tvg-logo="https://thumbor.prod.vidiocdn.com/wSfbef0k6V3fn7rnZa4azgVrLcM=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/728/eb7747.png" group-title="Indonesia Channels",iNews HD
-https://live.i-news.tv/hls/stream.m3u8
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:contentlookup=false
@@ -137,7 +122,7 @@ https://live.i-news.tv/hls/stream.m3u8
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/rcti.png" group-title="Indonesia Channels",RCTI
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -146,7 +131,7 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mnctv.png" group-title="Indonesia Channels",MNC TV
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -155,12 +140,12 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/gtv.png" group-title="Indonesia Channels",GTV
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 #EXTINF:-1 tvg-name="" tvg-url="" tvg-logo="https://object-streamo.emonaja.com/img/inews.png" group-title="Indonesia Channels",iNews 
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
