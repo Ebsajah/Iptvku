@@ -546,8 +546,15 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/ind
 #EXTINF:-1 tvg-id="ROCKEntertainment.id" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Rock_Entertainment.png" group-title="Premium Movies",Rock Entertainment
 https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/index.mpd
 
-#EXTINF:-1 channel-id="" tvg-id="" tvg-name="Universal Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200030CG_20260421T133614SQUARE.png" group-title="Premium Movies",Universal Movies
-https://jmp2.uk/stvp-USBB3200030CG
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_49.png" group-title="Premium Movies" tvg-id="", Nickelodeon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=64
+https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1155,4 +1162,15 @@ https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20382405_ico.png?ts=1655456567" group-title="HBO",HBO Signature
 https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 
+#EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://static.cinemax.com/2021-07/hbo-logo-blk.png?w=400" group-title="HBO",HBO
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/52.m3u8
+
+#EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://www.transvision.co.id/img/channel/hbo_family.png" group-title="HBO",HBO family
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/53.m3u8
+
+#EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://www.transvision.co.id/img/channel/hbo_hits.png" group-title="HBO",HBO Hits
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/54.m3u8
+
+#EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://www.transvision.co.id/img/channel/hbo_sig.png" group-title="HBO",HBO Signature
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/55.m3u8
 
