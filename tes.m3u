@@ -30,59 +30,59 @@ https://live.cnnindonesia.com/trans7/smil:trans7/chunklist_w2685575259_b744100_s
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/sctv.png" group-title="Indonesia Channels" ,indosial
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=204.drm
-http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
+#KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=304.drm
+http://tvratu.my.id/nissa/index.mpd?id=304&type=dash
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/sctv.png" group-title="Indonesia Channels" ,SCTV
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=204.drm
-http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
+#KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=404.drm
+http://tvratu.my.id/nissa/index.mpd?id=405&type=dash
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/sctv.png" group-title="Indonesia Channels" ,moji hd
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=204.drm
-http://tvratu.my.id/nissa/index.mpd?id=206&type=dash
+#KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=504.drm
+http://tvratu.my.id/nissa/index.mpd?id=506&type=dash
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/sctv.png" group-title="Indonesia Channels" ,moji hd
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=204.drm
-http://tvratu.my.id/nissa/index.mpd?id=203&type=dash
+#KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=604.drm
+http://tvratu.my.id/nissa/index.mpd?id=603&type=dash
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/sctv.png" group-title="Indonesia Channels" ,moji hd
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=204.drm
-http://tvratu.my.id/nissa/index.mpd?id=202&type=dash
+#KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=134.drm
+http://tvratu.my.id/nissa/index.mpd?id=134&type=dash
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/sctv.png" group-title="Indonesia Channels" ,moji hd
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=204.drm
-http://tvratu.my.id/nissa/index.mpd?id=201&type=dash
+#KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=135.drm
+http://tvratu.my.id/nissa/index.mpd?id=135&type=dash
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/sctv.png" group-title="Indonesia Channels" ,moji hd
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=204.drm
-http://tvratu.my.id/nissa/index.mpd?id=207&type=dash
+#KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=136.drm
+http://tvratu.my.id/nissa/index.mpd?id=136&type=dash
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/sctv.png" group-title="Indonesia Channels" ,moji hd
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=204.drm
-http://tvratu.my.id/nissa/index.mpd?id=208&type=dash
+#KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=137.drm
+http://tvratu.my.id/nissa/index.mpd?id=137&type=dash
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/sctv.png" group-title="Indonesia Channels" ,moji hd
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=204.drm
-http://tvratu.my.id/nissa/index.mpd?id=209&type=dash
+#KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=142.drm
+http://tvratu.my.id/nissa/index.mpd?id=142&type=dash
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/sctv.png" group-title="Indonesia Channels" ,moji hd
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=204.drm
-http://tvratu.my.id/nissa/index.mpd?id=210&type=dash
+#KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=111.drm
+http://tvratu.my.id/nissa/index.mpd?id=111&type=dash
