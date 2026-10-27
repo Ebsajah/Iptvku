@@ -1155,34 +1155,41 @@ https://f9169865dbd747b4a24602e856a9c7a2.mediatailor.ap-southeast-1.amazonaws.co
 #EXTINF:-1 xui-id="17" tvg-id="" tvg-name="HBO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvtn6h145m1jmm4iyra-nE47euBz2m6ud9P4Uujd7PECr145kQXZel3A1qH3wj747QDKFjBfEA_QFHXtcizkAMBCUI1zIHIAp-bsptaH-blh6M2xY6Sz4xyduamr3thcOYkDk20-kz6-LomHGCcPcav-In_eu88jwb1YMYgxaxYomjxY74C0vw7whBlsA/s700/HBOTV.png" group-title="HBO",HBO
 https://xcpro.biz.id:443/play/dYV3B3XWN54ZV-b1bZJcnjl6miUTk4Op-1ICovtRj1U
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:contentlookup=false
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20102452_ico.png?ts=1655457090" group-title="HBO",HBO
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=hbo
+#EXTINF:-1 xui-id="18" tvg-id="" tvg-name="HBO HITS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibtOnXi5UAeNQBCK6swgH2mwDck1Mhbtmt2B3KdVqqWpjeGzGkFe-5OzgfgCpD9X9reBul8zviIm4c2ejYosCQK8XLJ7WclpdnEqpCJxKVGPTwyOHjULV_Puo4tGfeU7A8U07A3MM9uC8fKdowM0l1FR4Sop0oaSGOZ2ztEplxP5-67vyn85ccnBodla0/s700/HBOHitsTV.png" group-title="HBO",HBO Hits
+http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4g8LhZhnSeQ6ODLBTwGwA_4
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19956861_ico.png?ts=1655456496" group-title="HBO",HBO Hits
-https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
+#EXTINF:-1 xui-id="19" tvg-id="" tvg-name="HBO SIGN" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbpAnB-yjscqFyrW8kJM2DF7ZcwFD84_gdUMht9RC85VpHWSDotf5tbjyIl4JmFQ-75HYmwr2FQhoJQDAHEzyFD-tINJycaasi2vCuq9kH1WxvNfAlwWIuB5SRzfcpeLV45T2tgmeSbNDr3QY9EjYfsj-NZ5p2Ak-uU0A4meBmx_gqJXdgRbo-hLvpjEI/s700/HBOSignatureTV.png" group-title="HBO",HBO Signature
+http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4okghq8b7IxQyl1atKqxrEs
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20382405_ico.png?ts=1655456567" group-title="HBO",HBO Signature
-https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
+#EXTINF:-1 xui-id="20" tvg-id="" tvg-name="HBO FAMILY" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu9OfmiYgaI8dCv9pVpEZ3tlZTc4FQtKC8-ScDJeXBQgV5zn_yT7aMJJWa0VTwXlr6k-Mgu3FOt5VvmI-nC9dE6ZWL19LiHaUKy2JSKKpHH3DaGK23lXUNVzRHJD9vrtgL9-D5OFMHwUhcsLNAnse-6MDumDTe3MVSPlpK0JlOl5pRtNbaAqp1yxy0oc4/s700/HBOFamilyTV.png" group-title="HBO",HBO Family
+http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4u22OlU2llAp4squXGnLIJM
 
-#EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://static.cinemax.com/2021-07/hbo-logo-blk.png?w=400" group-title="HBO",HBO
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/52.m3u8
+#EXTINF:-1 xui-id="21" tvg-id="" tvg-name="CINEMAX" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGYssuX8G8-6ni0gxuqJ19ZWr3g_gFqZ0tdq3dQGF5vzj_BmexpD3QYg18dJI427CwVB1nGevHVbiBqhmKs9WrqNkhxqixqXaHpiLL4nVo0Hyc1pnyBfg6hVInrBOzixhZRtsqIq1ltjEPnXII_6GSj6fvCL0DMf4FTVPnUWXeBPcyY-jeqD3zENm8LNw/s700/CinemaxTV.jpg" group-title="HBO",Cinemax
+http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4k7jfUWSeWjhnf2JANHYtas
 
-#EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://www.transvision.co.id/img/channel/hbo_family.png" group-title="HBO",HBO family
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/53.m3u8
+#EXTINF:-1 xui-id="25" tvg-id="" tvg-name="WARNER TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5AII4mQH6Aou2CFvShEvroLEKgKfij5-cxZzUoPUmquQZRziXGKINRWdftghbQ7y83nbMB3aOEMW_iOJYZlkNObrdCbmZ7vEoX2nW2hNhGlvmiYPyLIvL2PhDIeR-b5cyHHHfPeMWIGJoS5BEQ9Kid7wX6ftk1Je3AEiUf-nGw9D3blNLmbnburNxlHQ/s700/WarnerTV2.png" group-title="Premium Movies",Warner TV
+http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4gfNxpW4Ty9VjGrrdtv7X3A
 
-#EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://www.transvision.co.id/img/channel/hbo_hits.png" group-title="HBO",HBO Hits
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/54.m3u8
+#EXTINF:-1 xui-id="34" tvg-id="" tvg-name="GALAXY" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFJ-IQKA4Kc73pw5SRWQfAy2w3qMxUoCl3VU5FhFfF6kDNUiaeZd66_c2TncVnnaYzbj7d9Idz2al3U4jkYJWb35H8UHOCcuFngs6iMTVYCjyOJhPATk8TYDwzJxNOJ-zrZni9GKyNViEq4AVtgkE-go9DPlg6F3MWyxn5Cv98kt4sW6DjaRTkKIw_At0/s700/Galaxy.png" group-title="Premium Movies",Galaxy
+http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4g9qEOo2U4K5YXfUc2ZdzVQ
 
-#EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://www.transvision.co.id/img/channel/hbo_sig.png" group-title="HBO",HBO Signature
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/55.m3u8
+#EXTINF:-1 xui-id="35" tvg-id="" tvg-name="GALAXY PREMIUM" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihOS8mNqVfeK_JAbd-SCO81NvuETeYXuH-cKu5vgykxZaqYGDW-5sw5CBVcIF6y4pgxJ9jXVea5k_acS7E_gkWJLF4m4cU07X5Tj1AYKmBP3LNaleSHdLl5WFPlcCSMwFTRU2nt0pEryvtOM9tU2N45g2zjZJqoaCQK7VoJ9I75hHcfAeV1c9g3kOo7BI/s700/GalaxyPremium.png" group-title="Premium Movies",Galaxy Premium
+http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4tXz_e8POTLQnU2kHsS8VEM
 
+#EXTINF:-1 xui-id="37" tvg-id="" tvg-name="HITS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifg78FMqX8Q-jmczFwc6p8wjyK2FD1Nxs0RryHjz_BX8x3jiv-o1j4wFfePJZulPa8gUY1vz2Zdx7U5u4LDxYOJEI77Ek8p9ghnofFckbKDpIESbOL-I3cS7mL7k0Ibmc8EHziJKGCiNNPeyBa_Wvc-zBawRzgj3AQAivte59Lh39okWiZ_GmturuPWO4/s700/Hits.png" group-title="Premium Movies",Hits
+http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4oZ_FTf9wGwZ3HxAFmxh1ng
+
+#EXTINF:-1 xui-id="38" tvg-id="" tvg-name="HITS MOVIES" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8WFaYm0vrVuig8hygl3IjtpOVw2VlGqrLheOkxoTlBmC40tyRsvf6TwTodCUc8RUBj1IEpWvlJaTNYbbojwZh-PnVnpcIb0i9VPnaDSt8O4_PvB08JhSk6aW0bz9NqOwvOffmvAMXnAuLRSCVyaSgZfqXCATMi-eGbdIY5wuJoYjveqD37i9E92hl7yU/s700/HitsMovies.png" group-title="Premium Movies",Hits Movies
+http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4uIKb5jr_E6ic3jYG-lTvq8
+
+#EXTINF:-1 xui-id="48" tvg-id="" tvg-name="K PLUS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3onq59jrZDfAr05wESfJrD-7S2J6m9vIh1RCK1w8Sw9zUUpn-j-mhxysJ4Kn80V1lnT0ZZozLoGgKJEkGhAfZY335eUUCuWO2bOSxLZgkUzIsfp8uXrJu-Y2sgXcoScE1tlqA10LH6ztkqa9dduDU5VVcp8ODIn2EhhLcTXqkO5mI0XQCrTfNTDUY6Vs/s700/KPlus.png" group-title="Korea",K Plus
+http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5wzKz7b4-CQKMfPSHL0xMwhU
+
+#EXTINF:-1 xui-id="33" tvg-id="" tvg-name="TvN MOVIE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_VsdHiFE1ImBZ2AdzB6DsS_jVvcWYi-60ryedUwzQ3FYaGw5FS0dgJHcSIbvhQz6EJ7cu-O4HQeYrAuHC7QCVWKqpefpzADWdDH8YidXyDypNSCFK_lfG-XRqqpO92lDElAW5QzcvID7n9X3-hMdhnSwEK4qK6qxeTsbjt_Na1rZU9Dx5fcOUETu4YDU/s700/TVNMovies.png" group-title="Korea",TvN Movie
+http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5wzrkLCOegxST6-VwRpcxrLE
+
+#EXTINF:-1 xui-id="24" tvg-id="" tvg-name="IMC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHluA1IlnLLdXqs2T5kFvRt34DhB_mKrmGPw7qQnvVC1SzYmf3_XYC62uR_RXdU9Nzv-QxWYZYVm04VmoXO_qiBl8a3mvqeFepHKLxjSg2F_WYquv7SldJe7NvK1YYAphdRg2lNpvgZJb0oaZH8A6gGK7SE9Sx-oLPg2UdM9sQ84464IcSRrMNi3EKzEg/s700/IMC.png" group-title="Premium Movies",IMC
+http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w1jLpYLZCy9HUg3y39KmHVE
+
+#EXTINF:-1 xui-id="22" tvg-id="" tvg-name="BIOSKOP INDONESIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN89p3g1gutSqqVTtdki2v2eVNNc5MrdT-5XfyrzB_UbGwPET1v0tkE3AwgIzt4erUi7iCHEHTkW2bjyWwLLroPGpADKvddLj_z-npikcrjxgF35UsmSZ8dGTL1CWYhDEWwC0F3R3mexyqeFRPjEiZvrsgrgFlfyuiV8V55qVMtIR4NUPJhyphenhyphen8H9xjD9PA/s700/BioskopIndonesia.png" group-title="Premium Movies",Bioskop Indonesia
+http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5wz4rbLhbJNVMEuWpKWkGz4E
