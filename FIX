@@ -4,21 +4,6 @@
 #tvg-url-tvg="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml"
 
 #============================================================== Indonesia Channels ==================================================#
-#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/kH-K9J4cROqL0TZrAyQhw7P5pBk=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" group-title="Indonesia Channels",SCTV HD
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-origin=https://www.dens.tv
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dens.tv/|referrer=https://www.dens.tv/|Origin=https://www.dens.tv|User-Agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1|user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTHTTP:{"Referer":"https://www.dens.tv/","referrer":"https://www.dens.tv/","Origin":"https://www.dens.tv","User-Agent":"DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1","user-agent":"DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1"}
-https://op-flashcon-digdayahd-1.dens.tv/h/h217/01.m3u8?app_type=web&userid=lite&chname=SCTV
-
-#EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/IRVkD3QGRzroJ4IZzXBpS-0MRls=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/782/e1af8b.png" group-title="Indonesia Channels",ANTV HD
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-origin=https://www.dens.tv
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dens.tv/|referrer=https://www.dens.tv/|Origin=https://www.dens.tv|User-Agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1|user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTHTTP:{"Referer":"https://www.dens.tv/","referrer":"https://www.dens.tv/","Origin":"https://www.dens.tv","User-Agent":"DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1","user-agent":"DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1"}
-https://op-flashcon-digdayahd-1.dens.tv/h/h235/01.m3u8
 
 #EXTINF:-1 tvg-id="mdtv" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="Indonesia Channels", MDTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
@@ -26,14 +11,13 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h06/index.m3u8
 
 #EXTINF:-1 tvg-id="trans7" tvg-logo="https://object-streamo.emonaja.com/img/trans7.png" group-title="Indonesia Channels",Trans7 tes
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #EXTVLCOPT:http-referrer=https://geo.dailymotion.com/
+#KODIPROP:inputstream.adaptive.license_key=https://pebed.dm-event.net/{"channel":"player","edward":"1.1","sent_ts":1793191013837,"v1st":"a305116f-bbf4-e0f1-7e9b-7c80763a3eca","events":[{"name":"streaming.playbackState","version":"1.0","data":{"created_ts":1793191013833,"context":{"screen":"2560x1392","visitor_group":19},"info":{"visitor":{"id":"a305116f-bbf4-e0f1-7e9b-7c80763a3eca","traffic_segment":187412,"as_number":"AS23693","continent":"AS","country":"ID","region":"SB","onsite":false,"timezone_offset":25200000},"player":{"type":"photon","version":"v0.133.0","env":"prod","embedder":"https://sevenhub.id/live","embedder_hostname":"sevenhub.id","instance_uuid":"08443bc1-9f04-8536-42df-206535d48cad","topdomain":"sevenhub.id","is_inline":false,"config":{"adPressureOptimization":"monetization","aspectRatio":"16:9","autonextAfter":6,"autoskipAfter":10,"autostart":"on","contextualContentDayRange":1800,"contextualContentSource":"channel","enableAdPreload":true,"enableAds":true,"enableAdsControls":true,"enableAttentionPeaks":true,"enableAutomaticRecommendations":true,"enableAutonext":true,"enableAutoskip":false,"enableContentPreload":false,"enableChannelLink":true,"enableContextualContent":true,"enableContextualContentFallback":true,"enableContextualContentDayRange":false,"enableCustomRecommendations":false,"enableDmLogo":false,"enableDynamicThumbnail":false,"enableEcoMode":false,"enableEidCollection":false,"enableGooglePolicyUi":true,"enableHoldToFastforward":true,"enableInlinePlayer":false,"enableKeyboardShortcuts":true,"enableLiveOffairScreen":true,"enableLegacyPip":false,"enableMute":false,"enablePaidPartnershipLabel":false,"enablePipLargeSize":false,"enablePipPlacement":true,"enablePlaybackControls":true,"enableReceiveUrlLocation":true,"enableSharing":true,"enableSharingUrlLocation":false,"enableSpinner":true,"enableStartPipExpanded":false,"enableStartscreenDmLink":true,"enableSubtitles":true,"enableTitlesInVideoCards":true,"enableVideoTitleLink":true,"enableVideoTitle":true,"enableVideoOwner":true,"enableWaitForCustomConfig":false,"enableWatchNowCard":true,"hasReachedPlaybackLimits":false,"hasSubscriptionStatusRestricted":false,"hasRecommendationsFromOrgOnly":true,"hasSsai":true,"id":"x15a7g","pip":"instant","pipSelectedPlacement":"bottom_right","recommendationsOptimisation":"monetization","watermarkImageType":"none","watermarkLinkType":"none"},"pes_integration_type":"embed"},"view":{"queue_mode":"recommended","video_index":0,"width":643,"height":362,"is_fullscreen":false,"display_mode":"regular","volume":10,"is_active_tab":true},"browser":{"user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36","os_family":"Windows","os_name":"Windows 10","ua_family":"Chrome","ua_name":"Chrome 156.0.0.0","ua_version":156,"locale":"en-US","cookies_available":true},"app":{"is_native":false},"device":{"type":"desktop","width":994,"height":1271},"publisher":{"xid":"x2virdk","type":"player"}},"metadata":{"duration":0,"id":"x8qckyq","stream_type":"live","owner_id":"x2virdk","protected_delivery":false,"is_password_protected":false,"is_private":false,"is_critical":false,"is_geo_cached":false,"stream_tech":"hls.js","mime_type":"application/x-mpegURL","cell":"lcf-eu-north-1a","media_type":"video"},"real_autoplay":true,"settings":{"api":"postMessage","autoplay":true,"controls":true,"pubtool":"pes","embed_index":1},"view_id":"1k6179muo223a2449f1","empty_player":false,"timestamp":{"delta_time_origin":955108,"delta_time_origin_pes":955598},"state":"playing","type":"videoTimeUpdate","rebuffering":{},"delivery":{"decodeError":0,"freezeError":0,"droppedVideoFrames":3,"corruptedVideoFrames":0,"stream":{"version":"1.7.2","HTTPDL":179847944,"emergencyNb":0,"exceptionNb":0,"latency":189,"startLevel":-1,"minMs":{"dl":210,"mux":1},"maxMs":{"dl":1250,"mux":6},"frags":{"minDuration":3,"f0":{"start":14376000,"end":14379014,"l":2,"pos":14376019,"lat":211,"DLdur":563,"len":881908,"kbps":null,"mux":6},"f1":{"start":14394000,"end":14397010,"l":2,"pos":14395000,"lat":292,"DLdur":427,"len":804828,"kbps":null,"mux":2},"f2":{"start":14397000,"end":14400005,"l":2,"pos":14395322,"lat":171,"DLdur":384,"len":932104,"kbps":null,"mux":2},"f3":{"start":14400000,"end":14403000,"l":1,"pos":14395848,"lat":241,"DLdur":310,"len":586748,"kbps":null,"mux":2},"f4":{"start":14403000,"end":14406019,"l":1,"pos":14398753,"lat":178,"DLdur":235,"len":559488,"kbps":null,"mux":2}},"avgKbps":{"total":null,"dl":15299,"mux":2387230,"buffer":null},"avgMs":{"total":null,"dl":294,"mux":2,"buffer":null},"autoLevelCapping":480},"timeStamp":1793191013833},"streaming":{},"duration":{"init":1404,"preroll":{"linearAdInit":0,"linearAdDisplay":0},"midroll":{"linearAdInit":0,"linearAdDisplay":0},"loading":2831,"loadedWaiting":1,"buffering":0,"waiting":441,"paused":0,"played":950171,"seeking":1,"seekedWaiting":0,"watched":950171,"hidden":602760,"playing":2833},"seekNb":1,"waitingNb":1,"rebufferingNb":0,"midrollNb":0,"vadsNb":0,"position":15345171,"bufferHealth":2828,"level":{"autoChange":null,"autoLast":480,"autoMax":720,"avg":481,"avgIdx":2,"last":480,"lastCodecs":"avc1,mp4a","lastAuto":true,"start":720,"startAuto":true,"min":240,"max":720,"nb":3,"autoMin":480}}}],"stack_ctx":{"player_stack":"noworker"}}
 https://live.eu-north-1a.cf.dmcdn.net/dm/3/x8qckyq/d/live-480.m3u8
-
 
 #EXTINF:-1 tvg-id="trans7" tvg-logo="https://object-streamo.emonaja.com/img/trans7.png" group-title="Indonesia Channels",Trans7
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -154,7 +138,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w909769083_b3840
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/cnbc.png" group-title="Indonesia Channels",CNBC Indonesia 
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1242192746_b384000_sleng.m3u8
+https://live.cnnindonesia.com/cnbctv/smil:cnbctv/chunklist_w2685575259_b744100_sleng.m3u8
 
 #EXTINF:-1 tvg-id="MetroTV" group-title="Indonesia Channels" tvg-logo="https://object-streamo.emonaja.com/img/metrotv.png",Metro TV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -223,7 +207,7 @@ https://d2xx73ro32cip.cloudfront.net/out/v1/a90cb773466446b08595007bab12b920/ind
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=088
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=88
 #EXTINF:-1 tvg-id="" tvg-logo="https://object-streamo.emonaja.com/img/CelebritiesTV.png" group-title="Indonesia Channels",CelebritiesTV
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/index.mpd
 
@@ -558,7 +542,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/ind
 #EXTINF:-1 tvg-id="Rock Action" tvg-name="Rock Action" group-title="Premium Movies",Rock Action
 #EXTVLCOPT:http-user-agent=VideoPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=173
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=73
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
