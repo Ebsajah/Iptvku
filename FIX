@@ -94,8 +94,9 @@ http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
-https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/res=1080p/file/stream.mpd?hdntl=exp=1793198486~acl=%2fstream%2f204%2fres%3d1080p%2ffile%2fstream.mpd!%2fstream%2f204%2ffile%2f*%2faac%2f*!%2fstream%2f204%2ffile%2f*%2f*-1080p%2f*!%2fstream%2f204%2ffile%2f*%2f*-720p%2f*!%2fstream%2f204%2ffile%2f*%2f*-480p%2f*!%2fstream%2f204%2ffile%2f*%2f*-360p%2f*~id=58373755~data=hdntl~hmac=31eadc905e7db809af873ded8b8b78129d5e40e631be73c39996e7c8b0c28664
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://plenty.vidio.com/events?id=58373755
+https://www.vidio.com/live/204-sctv
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/antv.png" group-title="Indonesia Channels" ,ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
