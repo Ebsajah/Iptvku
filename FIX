@@ -95,7 +95,7 @@ http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
 #KODIPROP:inputstream.adaptive.license_key=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhcGlrZXkifSwiZXhwIjoxNzkzMjkzMTk5fQ.i6xRS7lPLJ7MmhOnjyXVLAvaIjM2xU-V2-VfYutrpL8
-https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/res=1080p/file/stream.mpd
+https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/res=1080p/file/stream.mpd?id=58373755
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/antv.png" group-title="Indonesia Channels" ,ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
