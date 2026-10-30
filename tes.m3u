@@ -1,6 +1,11 @@
 #EXTM3U 
 
 #========TRANVISION=======#
+#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" group-title="Lokal TV",SCTV 1080p
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidio.com
+https://akamaized.net
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png" group-title="SPORTS",SpoTV 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
