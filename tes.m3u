@@ -5,7 +5,6 @@
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vidio.com/
-https://www.vidio.com/live/204-sctv
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png" group-title="SPORTS",SpoTV 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
