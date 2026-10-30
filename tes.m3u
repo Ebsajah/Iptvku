@@ -5,7 +5,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vidio.com
-https://akamaized.net
+https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/res=1080p/file/stream.mpd?hdntl=exp=1793339873~acl=%2fstream%2f204%2fres%3d1080p%2ffile%2fstream.mpd!%2fstream%2f204%2ffile%2f*%2faac%2f*!%2fstream%2f204%2ffile%2f*%2f*-1080p%2f*!%2fstream%2f204%2ffile%2f*%2f*-720p%2f*!%2fstream%2f204%2ffile%2f*%2f*-480p%2f*!%2fstream%2f204%2ffile%2f*%2f*-360p%2f*~id=58373755~data=hdntl~hmac=4124716c5a5caefee1ff2377f40f645c2d6eeab2a8f7a8d0c183c0cf0b2d3ed3
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png" group-title="SPORTS",SpoTV 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
