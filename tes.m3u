@@ -88,8 +88,8 @@ http://tvratu.my.id/nissa/index.mpd?id=137&type=dash
 #KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=142.drm
 http://tvratu.my.id/nissa/index.mpd?id=142&type=dash
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/sctv.png" group-title="Indonesia Channels" ,moji hd
+#EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/sctv.png" group-title="Indonesia Channels" ,moji hd1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=111.drm
-http://tvratu.my.id/nissa/index.mpd?id=111&type=dash
+#KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=28.drm
+http://tvratu.my.id/nissa/index.mpd?id=28&type=dash
