@@ -4,6 +4,19 @@
 #tvg-url-tvg="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml"
 
 #============================================================== Indonesia Channels ==================================================#
+#EXTINF:-1 http-referrer="https://www.rctiplus.com/" group-title="Suplemen",RCTI
+https://proxy-v.rctiplus.id/live/web/rcti/index.m3u8
+#EXTINF:-1 http-referrer="https://www.rctiplus.com/" group-title="Suplemen",MNCTV
+https://proxy-v.rctiplus.id/live/web/mnctv/index.m3u8
+#EXTINF:-1 http-referrer="https://www.rctiplus.com/" group-title="Suplemen",GTV
+https://proxy-v.rctiplus.id/live/web/gtv/index.m3u8
+#EXTINF:-1 http-referrer="https://www.rctiplus.com/" group-title="Suplemen",iNews
+https://proxy-v.rctiplus.id/live/web/inews/index.m3u8
+#EXTINF:-1 http-referrer="https://www.rctiplus.com/" group-title="Suplemen",ANTV
+https://proxy-v.rctiplus.id/live/web/antv/index.m3u8
+#EXTINF:-1 http-referrer="https://www.rctiplus.com/" group-title="Suplemen",Trans7
+https://proxy-v.rctiplus.id/live/web/trans7/index.m3u8
+
 #EXTINF:-1 tvg-id="auto.boomerang.cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq6ddMf3USTmAnZo4zaAOoDYeQDWmP-HOu5ICpMd-ghw&s=10" group-title="Kids",Boomerang Cartoon
 https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
 
