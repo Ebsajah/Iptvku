@@ -488,6 +488,9 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/in
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=64
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/index.mpd
 
+#EXTINF:-1 tvg-id="NickelodeonPlutoTV.id" tvg-name="Nickelodeon Pluto TV" tvg-chno="052" group-title="Kids",Nickelodeon Pluto TV
+https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
+
 #EXTINF:-1 tvg-id="Animax.id" tvg-logo="https://object-streamo.emonaja.com/img/animax.png",Animax
 #EXTGRP:Premium Movies
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
