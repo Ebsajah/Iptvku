@@ -1,4 +1,9 @@
-#EXTM3U
+#EXTM3U 
+
+#tvg-url-tvg="https://raw.githubusercontent.com/dhasap/dhanytv/main/epg.xml"
+#tvg-url-tvg="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml"
+
+#============================================================== Indonesia Channels ==================================================#
 
 #EXTINF:-1 tvg-id="tvNMovies.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_25.png" group-title="Korea",TvN movies HD1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
