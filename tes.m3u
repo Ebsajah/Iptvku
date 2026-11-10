@@ -7,6 +7,12 @@
 #EXTINF:-1 tvg-id="auto.boomerang.cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq6ddMf3USTmAnZo4zaAOoDYeQDWmP-HOu5ICpMd-ghw&s=10" group-title="Kids",Boomerang Cartoon
 https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
 
+#EXTINF:-1 tvg-id="auto.galaxy.premium.vs" tvg-logo="https://images.indihometv.com/images/channels/image_ch_galaxypremium.png" group-title="MOVIES & ENTERTAINMENT",GALAXY PREMIUM (VS)
+https://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd|license_type=org.w3.clearkey&license_key=0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0&User-Agent=referrer=https://www.visionplus.id/
+
+#EXTINF:-1 tvg-id="auto.kix.iht" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_kix.png" group-title="MOVIES & ENTERTAINMENT",KIX (IHT)
+https://cdn10jtedge.indihometv.com/atm/DASH/kix/manifest.mpd
+
 #EXTINF:-1 tvg-id="tvNMovies.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_25.png" group-title="Korea",TvN movies HD1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
