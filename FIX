@@ -453,6 +453,14 @@ https://ns1.tjmbc.co.kr/live/myStream.sdp/chunklist_w1501634961.m3u8
 #EXTINF:-1 tvg-id="" group-title="Korea" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/K-Plus_%282013%29.svg/revision/latest?cb=20240723011130",K Plus
 https://cdnbal1.indihometv.com/atm/DASH/kplus/kplus-avc1_2500000=7-3277707030000000.mpd
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTINF:-1 xui-id="48" tvg-id="" tvg-name="K PLUS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3onq59jrZDfAr05wESfJrD-7S2J6m9vIh1RCK1w8Sw9zUUpn-j-mhxysJ4Kn80V1lnT0ZZozLoGgKJEkGhAfZY335eUUCuWO2bOSxLZgkUzIsfp8uXrJu-Y2sgXcoScE1tlqA10LH6ztkqa9dduDU5VVcp8ODIn2EhhLcTXqkO5mI0XQCrTfNTDUY6Vs/s700/KPlus.png" group-title="Korea",K Plus
+http://xcpro.biz.id:443/play/z0O6XJxomfqqLAzqd6s5wzKz7b4-CQKMfPSHL0xMwhU
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTINF:-1 xui-id="33" tvg-id="" tvg-name="TvN MOVIE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_VsdHiFE1ImBZ2AdzB6DsS_jVvcWYi-60ryedUwzQ3FYaGw5FS0dgJHcSIbvhQz6EJ7cu-O4HQeYrAuHC7QCVWKqpefpzADWdDH8YidXyDypNSCFK_lfG-XRqqpO92lDElAW5QzcvID7n9X3-hMdhnSwEK4qK6qxeTsbjt_Na1rZU9Dx5fcOUETu4YDU/s700/TVNMovies.png" group-title="Korea",TvN Movie
+http://xcpro.biz.id:443/play/z0O6XJxomfqqLAzqd6s5wzrkLCOegxST6-VwRpcxrLE
+
 
 #================================================================================= Premium Movies ============================================================================================#
 
@@ -511,7 +519,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/333a9658ed6a4424a92e319114fb7111/in
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=07af9ce05d8f4960a1b9113e7fdb8e7e:12b66b374d9c804f7311cb6a8d421c8c
+#KODIPROP:inputstream.adaptive.license_key=9e9d9ca2bb814de9bfd73d7c19bfe190:e8c178a885d1a1e042ca34ec5ea3b938
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="HitsMovies.id" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/16/HITS_Movies_logo.png/revision/latest/scale-to-width-down/423?cb=20220323123229&path-prefix=vi" group-title="Premium Movies",HitsMovies
@@ -723,6 +731,14 @@ https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ParamountMovieChannel.id" tvg-name="Paramount Movie Channel" tvg-chno="039" group-title="Premium Movies",Paramount Movie Channel
 https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTINF:-1 xui-id="24" tvg-id="" tvg-name="IMC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHluA1IlnLLdXqs2T5kFvRt34DhB_mKrmGPw7qQnvVC1SzYmf3_XYC62uR_RXdU9Nzv-QxWYZYVm04VmoXO_qiBl8a3mvqeFepHKLxjSg2F_WYquv7SldJe7NvK1YYAphdRg2lNpvgZJb0oaZH8A6gGK7SE9Sx-oLPg2UdM9sQ84464IcSRrMNi3EKzEg/s700/IMC.png" group-title="Premium Movies",IMC
+http://xcpro.biz.id:443/play/z0O6XJxomfqqLAzqd6s5w1jLpYLZCy9HUg3y39KmHVE
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTINF:-1 xui-id="22" tvg-id="" tvg-name="BIOSKOP INDONESIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN89p3g1gutSqqVTtdki2v2eVNNc5MrdT-5XfyrzB_UbGwPET1v0tkE3AwgIzt4erUi7iCHEHTkW2bjyWwLLroPGpADKvddLj_z-npikcrjxgF35UsmSZ8dGTL1CWYhDEWwC0F3R3mexyqeFRPjEiZvrsgrgFlfyuiV8V55qVMtIR4NUPJhyphenhyphen8H9xjD9PA/s700/BioskopIndonesia.png" group-title="Premium Movies",Bioskop Indonesia
+http://xcpro.biz.id:443/play/z0O6XJxomfqqLAzqd6s5wz4rbLhbJNVMEuWpKWkGz4E
 
 #==============================================================Knowledge=================================================================================================#
 
@@ -1118,18 +1134,6 @@ http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4oZ_FTf9wGwZ3HxAFmxh1ng
 #EXTINF:-1 xui-id="38" tvg-id="" tvg-name="HITS MOVIES" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8WFaYm0vrVuig8hygl3IjtpOVw2VlGqrLheOkxoTlBmC40tyRsvf6TwTodCUc8RUBj1IEpWvlJaTNYbbojwZh-PnVnpcIb0i9VPnaDSt8O4_PvB08JhSk6aW0bz9NqOwvOffmvAMXnAuLRSCVyaSgZfqXCATMi-eGbdIY5wuJoYjveqD37i9E92hl7yU/s700/HitsMovies.png" group-title="Premium Movies",Hits Movies
 http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4uIKb5jr_E6ic3jYG-lTvq8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTINF:-1 xui-id="48" tvg-id="" tvg-name="K PLUS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3onq59jrZDfAr05wESfJrD-7S2J6m9vIh1RCK1w8Sw9zUUpn-j-mhxysJ4Kn80V1lnT0ZZozLoGgKJEkGhAfZY335eUUCuWO2bOSxLZgkUzIsfp8uXrJu-Y2sgXcoScE1tlqA10LH6ztkqa9dduDU5VVcp8ODIn2EhhLcTXqkO5mI0XQCrTfNTDUY6Vs/s700/KPlus.png" group-title="Korea",K Plus
-http://xcpro.biz.id:443/play/z0O6XJxomfqqLAzqd6s5wzKz7b4-CQKMfPSHL0xMwhU
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTINF:-1 xui-id="33" tvg-id="" tvg-name="TvN MOVIE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_VsdHiFE1ImBZ2AdzB6DsS_jVvcWYi-60ryedUwzQ3FYaGw5FS0dgJHcSIbvhQz6EJ7cu-O4HQeYrAuHC7QCVWKqpefpzADWdDH8YidXyDypNSCFK_lfG-XRqqpO92lDElAW5QzcvID7n9X3-hMdhnSwEK4qK6qxeTsbjt_Na1rZU9Dx5fcOUETu4YDU/s700/TVNMovies.png" group-title="Korea",TvN Movie
-http://xcpro.biz.id:443/play/z0O6XJxomfqqLAzqd6s5wzrkLCOegxST6-VwRpcxrLE
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTINF:-1 xui-id="24" tvg-id="" tvg-name="IMC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHluA1IlnLLdXqs2T5kFvRt34DhB_mKrmGPw7qQnvVC1SzYmf3_XYC62uR_RXdU9Nzv-QxWYZYVm04VmoXO_qiBl8a3mvqeFepHKLxjSg2F_WYquv7SldJe7NvK1YYAphdRg2lNpvgZJb0oaZH8A6gGK7SE9Sx-oLPg2UdM9sQ84464IcSRrMNi3EKzEg/s700/IMC.png" group-title="Premium Movies",IMC
-http://xcpro.biz.id:443/play/z0O6XJxomfqqLAzqd6s5w1jLpYLZCy9HUg3y39KmHVE
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTINF:-1 xui-id="22" tvg-id="" tvg-name="BIOSKOP INDONESIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN89p3g1gutSqqVTtdki2v2eVNNc5MrdT-5XfyrzB_UbGwPET1v0tkE3AwgIzt4erUi7iCHEHTkW2bjyWwLLroPGpADKvddLj_z-npikcrjxgF35UsmSZ8dGTL1CWYhDEWwC0F3R3mexyqeFRPjEiZvrsgrgFlfyuiV8V55qVMtIR4NUPJhyphenhyphen8H9xjD9PA/s700/BioskopIndonesia.png" group-title="Premium Movies",Bioskop Indonesia
-http://xcpro.biz.id:443/play/z0O6XJxomfqqLAzqd6s5wz4rbLhbJNVMEuWpKWkGz4E
