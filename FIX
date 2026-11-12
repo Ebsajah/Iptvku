@@ -393,22 +393,13 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/tlc.smil/manifest.mpd
 
 #========================================================================= Korean Channels ===============================================================================#
 
-#EXTINF:-1 tvg-id="tvNMovies.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_25.png" group-title="Korea",TvN movies
-http://202.150.161.212:5000/live/channel30/playlist.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://api.cubmu.com/global/v1/widevine/license|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36|Origin=https://cubmu.com
-#EXTINF:-1 tvg-id="tvNMovies.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_25.png" group-title="Korea",TvN movies HD
-https://cdnjktbpid02.transvision.co.id/riutx01-3f9d9dd6012b7cdd7558fdd44b9a002b/dashx/VFZOIE1vdmllcw/manifest.mpd
-
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=80&type=drm&token=KITKATTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTINF:-1 tvg-id="tvNMovies.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_25.png" group-title="Korea",TvN movies HD
+#EXTINF:-1 tvg-id="tvNMovies.id" #tvg-url-tvg="https://raw.githubusercontent.com/dhasap/dhanytv/main/epg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_25.png" group-title="Korea",TvN movies HD
 https://proxy-v.rctiplus.id/live/web/tvnmovies/index.m3u8
 
 #EXTINF:-1 tvg-id="KBS.World.id" tvg-name="KBS World (HD)" tvg-logo="https://mimipipi22.github.io/logo/international/kbsworld.jpg" group-title="Korea",KBS WORLD
@@ -452,11 +443,6 @@ https://cdnbal1.indihometv.com/atm/DASH/kplus/kplus-avc1_2500000=7-3277707030000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 xui-id="48" tvg-id="" tvg-name="K PLUS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3onq59jrZDfAr05wESfJrD-7S2J6m9vIh1RCK1w8Sw9zUUpn-j-mhxysJ4Kn80V1lnT0ZZozLoGgKJEkGhAfZY335eUUCuWO2bOSxLZgkUzIsfp8uXrJu-Y2sgXcoScE1tlqA10LH6ztkqa9dduDU5VVcp8ODIn2EhhLcTXqkO5mI0XQCrTfNTDUY6Vs/s700/KPlus.png" group-title="Korea",K Plus
 http://xcpro.biz.id:443/play/z0O6XJxomfqqLAzqd6s5wzKz7b4-CQKMfPSHL0xMwhU
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTINF:-1 xui-id="33" tvg-id="" tvg-name="TvN MOVIE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_VsdHiFE1ImBZ2AdzB6DsS_jVvcWYi-60ryedUwzQ3FYaGw5FS0dgJHcSIbvhQz6EJ7cu-O4HQeYrAuHC7QCVWKqpefpzADWdDH8YidXyDypNSCFK_lfG-XRqqpO92lDElAW5QzcvID7n9X3-hMdhnSwEK4qK6qxeTsbjt_Na1rZU9Dx5fcOUETu4YDU/s700/TVNMovies.png" group-title="Korea",TvN Movie
-http://xcpro.biz.id:443/play/z0O6XJxomfqqLAzqd6s5wzrkLCOegxST6-VwRpcxrLE
-
 
 #================================================================================= Premium Movies ============================================================================================#
 
