@@ -297,11 +297,13 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h24/index.m3u8
 #EXTINF:-1 tvg-name="" group-title="Indonesia Channels" tvg-logo="https://object-streamo.emonaja.com/img/jtv.png",JTV
 https://proxy-v.rctiplus.id/live/web/jtv/index.m3u8
 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fee85fded8ea4591b643468412bee3be:7e364f3ffd09c7b51c8d81430819177f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=25&type=drm&token=KITKATTV
 #EXTINF:-1 tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/jaktv.png" group-title="Indonesia Channels",JAKTV
-https://op-flashcon-digdayasd-1.dens.tv/h/h209/S1/mnf.m3u8
+https://proxy-v.rctiplus.id/live/web/jaktv/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://oxygentv.id/
@@ -342,13 +344,6 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h108/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/zKaiiyK.png" group-title="Indonesia Channels",ASTHA TV
 https://hgmtv.com:19360/asthatv/asthatv.m3u8
 
-#EXTINF:-1 tvg-name="" group-title="Indonesia Channels" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/ff/MCE2022.png/revision/latest?cb=20250702151331&path-prefix=ko" ,My Cinema Europe
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://op-flashcon-digdayahd-1.dens.tv/h/h18/index.m3u8
-
 #EXTINF:-1 tvg-name="" group-title="Indonesia Channels" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Al_Jazeera.svg/revision/latest?cb=20171112085348" ,Aljazeera
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -362,6 +357,12 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h43/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h203/index.m3u8
+
+#EXTINF:-1 tvg-id="TV9Nusantara.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/ed/TV9_Nusantara.png" group-title="Indonesia Channels",TV9 Nusantara (720p)
+https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SurauTV.id@SD" tvg-logo="https://i.imgur.com/CKoxcWL.png" group-title="Indonesia Channels",Surau TV (720p)
+http://ikitv.sqn.at:8000/play/a00l/index.m3u8
 
 #========================================================================= RELIGI ===============================================================================#
 
@@ -500,6 +501,12 @@ https://cdnbal1.indihometv.com/atm/DASH/kplus/kplus-avc1_2500000=7-3277707030000
 http://xcpro.biz.id:443/play/z0O6XJxomfqqLAzqd6s5wzKz7b4-CQKMfPSHL0xMwhU
 
 #================================================================================= Premium Movies ============================================================================================#
+#EXTINF:-1 tvg-name="MCE" group-title="Premium Movies"tvg-logo="https://static.wikia.nocookie.net/logos/images/f/ff/MCE2022.png/revision/latest?cb=20250702151331&path-prefix=ko" ,My Cinema Europe
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h18/index.m3u8
 
 #EXTINF:-1 tvg-id="ROCKAction.id" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/l6lmlqG.png" group-title="Premium Movies",Rock Action
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
@@ -542,6 +549,12 @@ https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=65&type=drm&token=KITKATTV
 https://proxy-v.rctiplus.id/live/web/animax/index.m3u8
+
+#EXTINF:-1 tvg-id="auto.boomerang.cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq6ddMf3USTmAnZo4zaAOoDYeQDWmP-HOu5ICpMd-ghw&s=10" group-title="Premium Movies",Boomerang Cartoon
+https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@Thailand" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Premium Movies",Cartoon Network Asia Thailand
+http://103.253.74.210:7070/stream/118/index.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
