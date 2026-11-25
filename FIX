@@ -540,7 +540,7 @@ https://dsgtq5sngxkde.cloudfront.net/rockent/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=64&type=drm&token=KITKATTV
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=63&type=drm&token=KITKATTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://dsgtq5sngxkde.cloudfront.net/nick/index.m3u8
 
@@ -550,8 +550,7 @@ http://fikoltv.ottc.pro:80/IIML8BORNU/2T48AVSPDU/1179169
 #EXTINF:-1 tvg-id="NickelodeonPlutoTV.id" tvg-name="Nickelodeon Pluto TV" tvg-chno="052" group-title="Premium Movies",Nickelodeon Pluto TV
 https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
 
-#EXTINF:-1 tvg-id="Animax.id" tvg-logo="https://object-streamo.emonaja.com/img/animax.png",Animax
-#EXTGRP:Premium Movies
+#EXTINF:-1 tvg-id="Animax.id" tvg-logo="https://object-streamo.emonaja.com/img/animax.png" group-title="Premium Movies",Animax
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -565,7 +564,7 @@ https://proxy-v.rctiplus.id/live/web/animax/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=65&type=drm&token=KITKATTV
-#EXTINF:-1 tvg-id="Animax.id" tvg-logo="https://object-streamo.emonaja.com/img/animax.png",Animax N
+#EXTINF:-1 tvg-id="Animax.id" tvg-logo="https://object-streamo.emonaja.com/img/animax.png" group-title="Premium Movies",Animax N
 https://dsgtq5sngxkde.cloudfront.net/animax/index.m3u8
 
 #EXTINF:-1 tvg-id="auto.boomerang.cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq6ddMf3USTmAnZo4zaAOoDYeQDWmP-HOu5ICpMd-ghw&s=10" group-title="Premium Movies",Boomerang Cartoon
@@ -965,8 +964,8 @@ https://proxy-v.rctiplus.id/live/web/spotv/index.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=119&type=drm&token=KITKATTV
-#EXTINF:-1 tvg-id="SPOTV.id" tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" ggroup-title="Sports",SpoTV
-https://dsgtq5sngxkde.cloudfront.net/spotv1/index.m3u8
+#EXTINF:-1 tvg-id="SPOTV.id" tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="Sports", SpoTV
+https://dsgtq5sngxkde.cloudfront.net/spotv/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
